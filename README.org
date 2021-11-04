@@ -1,0 +1,25 @@
+* Listes des comptes d'organisation
+
+Cette page présente les listes des comptes d'organisation où les
+administrations publiques publient des codes sources.
+
+Ces informations sont les sources du site [[https://code.gouv.fr][code.gouv.fr]].
+
+- [[https://git.sr.ht/~etalab/codegouvfr-sources/blob/master/comptes-organismes-publics][comptes-organismes-publics]] : Liste principale.                                
+- [[https://git.sr.ht/~etalab/codegouvfr-sources/blob/master/comptes-organismes-publics-esr][comptes-organismes-publics-esr]] : Sous-ensemble des comptes liés à l'enseignement supérieur et la recherche.
+- [[https://git.sr.ht/~etalab/codegouvfr-sources/blob/master/comptes-organismes-publics-autres-forges][comptes-organismes-publics-autres-forges]] : Forges non suivies sur [[https://code.gouv.fr][code.gouv.fr]].
+- [[https://git.sr.ht/~etalab/codegouvfr-sources/blob/master/comptes-organismes-avec-politique-de-publication-floss.csv][comptes-organismes-avec-politique-de-publication-floss.csv]] : Liste des comptes d'organisation présentant une politique de publication des codes sources.
+
+* Contribuer
+
+Vos contributions sont les bienvenues !
+
+Vous pouvez signaler un nouveau compte d'organisation ou une nouvelle
+forge en écrivant à [[mailto:logiciels-libres@data.gouv.fr][logiciels-libres@data.gouv.fr]].
+
+* Licence
+
+Le contenu de ce dépôt est sous [[file:LICENSE.md][licence Ouverte 2.0]].
+
+2018-2021 DINUM, Etalab.
+

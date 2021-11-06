@@ -1,3 +1,5 @@
+[![img](https://img.shields.io/badge/Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~etalab/codegouvfr-sources/blob/master/LICENSES)
+
 
 # Listes des comptes d'organisation
 

@@ -1,0 +1,13 @@
+https://github.com/betagouv:
+  - floss-policy:
+    - https://doc.incubateur.net/startups/developpement/licences
+  - tutelle:
+    - Services du Premier Ministre
+    - Ministère de la Transformation et de la Fonction publiques
+
+https://github.com/etalab:
+  - floss-policy:
+    - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+  - tutelle:
+    - Services du Premier Ministre
+    - Ministère de la transformation et de la fonction publiques

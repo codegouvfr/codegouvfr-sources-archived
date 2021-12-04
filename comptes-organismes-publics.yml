@@ -1,86 +1,16 @@
-https://github.com/betagouv:
-  floss_policy:
-  - https://doc.incubateur.net/startups/developpement/licences
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la Transformation et de la Fonction publiques
-
-https://github.com/etalab:
-  floss_policy:
-  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques
-
-https://github.com/entrepreneur-interet-general:
-  floss_policy:
-  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques
-
-https://github.com/opendatateam:
-  floss_policy:
-  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques
-
-https://github.com/etalab-ia:
-  floss_policy:
-  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques
-
-https://github.com/tchapgouv:
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques
-
-https://github.com/france-connect:
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques
-
-https://github.com/dinum-HubEE:
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques
-
-https://github.com/sgmap-agd:
-  floss_policy:
-  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques
-
-https://github.com/disic:
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques
-
-https://github.com/numerique-gouv:
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques
-
 https://dev.ch-poitiers.fr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://edu-git.ac-versailles.fr:
+  service_of:
+  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
+
 https://forge.grandlyon.com:
+  service_of:
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://forge.univ-lyon1.fr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
@@ -116,9 +46,27 @@ https://git.unicaen.fr/pdn-certic:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/139bercy:
+  service_of:
+  - Ministère de l'Économie, des Finances et de la Relance
+
+https://github.com/AC-Rennes-OpenSource:
+  service_of:
+  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
+
 https://github.com/Antique-team:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/ApieFrance:
+  service_of:
+  - Mission d'appui au patrimoine immatériel de l'État
+  - Direction des affaires juridiques du MEFR
+  - Ministère de l'Économie, des Finances et de la Relance
+
+https://github.com/AssuranceMaladieSec:
+  service_of:
+  - Ministère des Solidarités et de la Santé
 
 https://github.com/BRGM:
   service_of:
@@ -140,13 +88,33 @@ https://github.com/CatalaLang:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/DGFiP:
+  service_of:
+  - Ministère de l'Économie, des Finances et de la Relance
+
+https://github.com/DGTresor:
+  service_of:
+  - Ministère de l'Économie, des Finances et de la Relance
+
 https://github.com/DIVERSIFY-project:
+  service_of:
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/DSI-Universite-Rennes2/:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
 https://github.com/Deducteam:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/Delegation-numerique-en-sante:
+  service_of:
+  - Ministère des Solidarités et de la Santé
+
+https://github.com/EDS-APHP:
+  service_of:
+  - Ministère des Solidarités et de la Santé
 
 https://github.com/EsupPortail:
   service_of:
@@ -155,6 +123,10 @@ https://github.com/EsupPortail:
 https://github.com/GHFC:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/GendarmerieNationale:
+  service_of:
+  - Ministère de l'Intérieur
 
 https://github.com/Geographie-cites:
   service_of:
@@ -196,6 +168,10 @@ https://github.com/InriaMecsci:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/InterieurGouvFr:
+  service_of:
+  - Ministère de l'Intérieur
+
 https://github.com/Irstea:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
@@ -211,6 +187,14 @@ https://github.com/LAB-MI:
 https://github.com/LETG:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/LaboratoryOfPlasmaPhysics:
+  service_of:
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/LemonLDAPNG:
+  service_of:
+  - Ministère de l'Intérieur
 
 https://github.com/MINAGRI-INITIAL:
   floss_policy:
@@ -240,6 +224,22 @@ https://github.com/OpenFLUID:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/PHAREHUB:
+  service_of:
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/PrefectureDePolice:
+  service_of:
+  - Ministère de l'Intérieur
+
+https://github.com/ProgrammeVitam:
+  service_of:
+  - Ministère de la Culture
+
+https://github.com/SciQLop:
+  service_of:
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
 https://github.com/SimPLU3D:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
@@ -266,9 +266,37 @@ https://github.com/abes-esr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/ac-nantes-dec:
+  service_of:
+  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
+
+https://github.com/academiePoitiers:
+  service_of:
+  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
+
+https://github.com/ansforge:
+  service_of:
+  - Ministère des Solidarités et de la Santé
+
+https://github.com/aphp:
+  service_of:
+  - Ministère des Solidarités et de la Santé
+
+https://github.com/assurance-maladie-digital:
+  service_of:
+  - Ministère des Solidarités et de la Santé
+
 https://github.com/atlanmod:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/betagouv:
+  floss_policy:
+  - https://doc.incubateur.net/startups/developpement/licences
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la Transformation et de la Fonction publiques
 
 https://github.com/cea-hpc:
   service_of:
@@ -294,13 +322,33 @@ https://github.com/ctools:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/culturecommunication:
+  service_of:
+  - Ministère de la Culture
+
 https://github.com/dataesr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/dinum-HubEE:
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
+https://github.com/disic:
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
 https://github.com/diverse-project:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/dnum-mi:
+  service_of:
+  - Ministère de l'Intérieur
 
 https://github.com/dsi-ehess:
   service_of:
@@ -310,6 +358,34 @@ https://github.com/elabftw:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/entrepreneur-interet-general:
+  floss_policy:
+  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
+https://github.com/eole:
+  service_of:
+  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
+
+https://github.com/etalab-ia:
+  floss_policy:
+  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
+https://github.com/etalab:
+  floss_policy:
+  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
 https://github.com/ezpaarse-project:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
@@ -317,6 +393,12 @@ https://github.com/ezpaarse-project:
 https://github.com/fabnumdef:
   floss_policy:
   - https://doc.incubateur.net/startups/developpement/licences
+
+https://github.com/france-connect:
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
 
 https://github.com/gammalib:
   service_of:
@@ -338,6 +420,14 @@ https://github.com/guix-mirror:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/histovec:
+  service_of:
+  - Ministère de l'Intérieur
+
+https://github.com/ia-flash:
+  service_of:
+  - Ministère de l'Intérieur
+
 https://github.com/ifremer-bioinformatics:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
@@ -346,11 +436,19 @@ https://github.com/imagesdesmaths:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/ina-foss:
+  service_of:
+  - Ministère de la Culture
+
 https://github.com/incubateur-territoires:
   floss_policy:
   - https://doc.incubateur.net/startups/developpement/licences
 
 https://github.com/inrae:
+  service_of:
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/inria:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
@@ -370,6 +468,10 @@ https://github.com/linbox-team:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/matchid-project:
+  service_of:
+  - Ministère de l'Intérieur
+
 https://github.com/medialab:
   floss_policy:
   - https://medialab.sciencespo.fr/a-propos/#deontology
@@ -384,9 +486,23 @@ https://github.com/neuroanatomy:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/numerique-gouv:
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
 https://github.com/ocaml:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/opendatateam:
+  floss_policy:
+  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
 
 https://github.com/openfun:
   service_of:
@@ -395,6 +511,10 @@ https://github.com/openfun:
 https://github.com/openmole:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/pass-culture:
+  service_of:
+  - Ministère de la Culture
 
 https://github.com/plantnet:
   service_of:
@@ -408,9 +528,23 @@ https://github.com/riatelab:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/sgmap-agd:
+  floss_policy:
+  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
 https://github.com/sympa-community:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/tchapgouv:
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
 
 https://github.com/unistra:
   service_of:
@@ -428,6 +562,18 @@ https://gitlab.adullact.net/UPSud:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://gitlab.adullact.net/aife:
+  service_of:
+  - Ministère de l'Économie, des Finances et de la Relance
+
+https://gitlab.adullact.net/dgfip:
+  service_of:
+  - Ministère de l'Économie, des Finances et de la Relance
+
+https://gitlab.adullact.net/marche-sll:
+  service_of:
+  - Ministère de l'Économie, des Finances et de la Relance
+
 https://gitlab.ccsd.cnrs.fr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
@@ -435,6 +581,18 @@ https://gitlab.ccsd.cnrs.fr:
 https://gitlab.cerema.fr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://gitlab.com/DREES_code:
+  service_of:
+  - Ministère des Solidarités et de la Santé
+
+https://gitlab.com/affelnet-lycee-group:
+  service_of:
+  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
+
+https://gitlab.com/arsante:
+  service_of:
+  - Ministère des Solidarités et de la Santé
 
 https://gitlab.com/cortext:
   service_of:
@@ -444,9 +602,17 @@ https://gitlab.com/fabnum-minarm:
   floss_policy:
   - https://doc.incubateur.net/startups/developpement/licences
 
+https://gitlab.com/has-sante:
+  service_of:
+  - Ministère des Solidarités et de la Santé
+
 https://gitlab.com/healthdatahub:
   floss_policy:
   - https://www.health-data-hub.fr/open-source
+
+https://gitlab.com/musee-saint-raymond:
+  service_of:
+  - Ministère de la Culture
 
 https://gitlab.fresnel.fr:
   service_of:
@@ -464,11 +630,19 @@ https://gitlab.inria.fr/belenios:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://gitlab.inria.fr/cedar/
+  service_of:
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
 https://gitlab.inria.fr/coquelicot:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
 https://gitlab.inria.fr/dsi_public:
+  service_of:
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://gitlab.inria.fr/guix-hpc:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
@@ -492,6 +666,10 @@ https://gitlab.inria.fr/why3:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://gitlab.inria.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
 https://gitlab.irstea.fr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
@@ -504,9 +682,17 @@ https://gitlab.mbb.cnrs.fr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://gitlab.mim-libre.fr:
+  service_of:
+  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
+
 https://gitlab.orfeo-toolbox.org:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://gitlab.ow2.org/lemonldap-ng:
+  service_of:
+  - Ministère de l'Intérieur
 
 https://gitlab.u-psud.fr:
   service_of:
@@ -524,108 +710,63 @@ https://plmlab.math.cnrs.fr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
-https://github.com/DSI-Universite-Rennes2/:
-  service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
-
-https://github.com/SciQLop:
-  service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
-
-https://github.com/LaboratoryOfPlasmaPhysics:
-  service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
-
-https://github.com/PHAREHUB:
-  service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
-
-https://gitlab.inria.fr/cedar/
-  service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
-
-https://gitlab.inria.fr/guix-hpc:
-  service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
-
-https://github.com/culturecommunication:
-  service_of:
-  - Ministère de la Culture
-
-https://github.com/dnum-mi:
-  service_of:
-  - Ministère de l'Intérieur
-
-https://github.com/eole:
-  service_of:
-  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
-
-https://github.com/ia-flash:
-  service_of:
-  - Ministère de l'Intérieur
-
-https://github.com/histovec:
-  service_of:
-  - Ministère de l'Intérieur
-
-https://github.com/ina-foss:
-  service_of:
-  - Ministère de la Culture
-
-https://github.com/inria:
-  service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
-
-https://github.com/matchid-project:
-  service_of:
-  - Ministère de l'Intérieur
-
-https://github.com/pass-culture:
-  service_of:
-  - Ministère de la Culture
-
-https://edu-git.ac-versailles.fr:
-  service_of:
-  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
-
-https://github.com/AC-Rennes-OpenSource:
-  service_of:
-  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
-
-https://github.com/PrefectureDePolice:
-  service_of:
-  - Ministère de l'Intérieur
-
-https://github.com/InterieurGouvFr:
-  service_of:
-  - Ministère de l'Intérieur
-
-https://github.com/ProgrammeVitam:
-  service_of:
-  - Ministère de la Culture
-
-https://github.com/ac-nantes-dec:
-  service_of:
-  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
-
-https://github.com/academiePoitiers:
-  service_of:
-  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
-
-https://gitlab.com/affelnet-lycee-group:
-  service_of:
-  - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
-
-https://gitlab.inria.fr:
-  service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
-
-https://github.com/gouvernementfr:
+https://framagit.org/datatourisme:
+https://framagit.org/openfisca:
+https://git.ademe.fr:
+https://git.beta.pole-emploi.fr:
+https://github.com/1024pix:
+https://github.com/AFB-dataviz:
+https://github.com/ANSSI-FR:
+https://github.com/ARCEP-dev:
+https://github.com/AccessiDys:
+https://github.com/AgenceBio:
+https://github.com/BaseAdresseNationale:
+https://github.com/Bibliome:
+https://github.com/CEREMA:
+https://github.com/Codes-sources-de-la-justice:
+https://github.com/Cour-de-cassation:
+https://github.com/DGA-MI-SSI:
+https://github.com/DREAL-NA:
+https://github.com/Envinorma
+https://github.com/IRSN:
+https://github.com/InseeFr:
+https://github.com/InseeFrLab:
+https://github.com/LINCnil:
+https://github.com/OCSInventory-NG:
+https://github.com/PnCevennes:
+https://github.com/PnEcrins:
+https://github.com/PnX-SI:
+https://github.com/SocieteNumerique:
+https://github.com/addok:
+https://github.com/administration-solrep:
+https://github.com/afimb:
+https://github.com/ambanum:
+https://github.com/anct-cnum:
+https://github.com/banquedefrance:
+https://github.com/caml-pkcs11:
+https://github.com/caradoc-org:
+https://github.com/cget-carto:
+https://github.com/clipos-archive:
+https://github.com/clipos:
+https://github.com/communaute-cimi:
+https://github.com/consultation-gouv:
+https://github.com/cour-des-comptes:
+https://github.com/cre-dev:
+https://github.com/cstb:
+https://github.com/cw-leia:
+https://github.com/datagir:
+https://github.com/datalab-mi:
+https://github.com/datalocale:
+https://github.com/dfir-orc:
+https://github.com/dgac:
+https://github.com/diplomatiegouvfr:
+https://github.com/dnum-socialgouv:
 https://github.com/dsi-github:
 https://github.com/erasme:
 https://github.com/geobretagne:
 https://github.com/geodatagouv:
 https://github.com/georchestra:
+https://github.com/gouvernementfr:
 https://github.com/landlock-lsm:
 https://github.com/leximpact:
 https://github.com/lutece-secteur-public:
@@ -651,94 +792,21 @@ https://github.com/spyrales:
 https://github.com/stemjail:
 https://github.com/strasbourg:
 https://github.com/wookey-project:
-https://gitlab.adullact.net/aife:
 https://gitlab.adullact.net/departements-notaires:
-https://gitlab.adullact.net/dgfip:
 https://gitlab.adullact.net/e-carre:
 https://gitlab.adullact.net/gip-recia-snc:
 https://gitlab.adullact.net/larochelle:
-https://gitlab.adullact.net/marche-sll:
 https://gitlab.adullact.net/prodigeadmin:
 https://gitlab.adullact.net/socio-connect:
 https://gitlab.com/CSTB:
-https://gitlab.com/DREES_code:
 https://gitlab.com/api-meubles:
-https://gitlab.com/arsante:
+https://gitlab.com/dreal-datalab:
 https://gitlab.com/france-mobilites:
-https://gitlab.com/has-sante:
 https://gitlab.com/hatvp-open:
-https://github.com/Codes-sources-de-la-justice:
-https://github.com/dnum-socialgouv:
-https://forge.univ-lyon1.fr:
-https://gitlabjf.ccomptes.fr:
-https://framagit.org/datatourisme:
-https://gitlab.mim-libre.fr:
-https://gitlab.mobilites-m.fr:
-https://github.com/SocieteNumerique:
-https://git.ademe.fr:
-https://git.beta.pole-emploi.fr:
-https://framagit.org/openfisca:
-https://github.com/LINCnil:
-https://github.com/LemonLDAPNG:
-https://gitlab.ow2.org/lemonldap-ng:
-https://gitlab.com/musee-saint-raymond:
 https://gitlab.com/op18-enki:
 https://gitlab.com/peren:
 https://gitlab.com/pidila:
 https://gitlab.com/rdes_dreal:
 https://gitlab.factory.social.gouv.fr:
-https://github.com/1024pix:
-https://github.com/139bercy:
-https://github.com/AFB-dataviz:
-https://github.com/ANSSI-FR:
-https://github.com/ARCEP-dev:
-https://github.com/AccessiDys:
-https://github.com/AgenceBio:
-https://github.com/ApieFrance:
-https://github.com/AssuranceMaladieSec:
-https://github.com/BaseAdresseNationale:
-https://github.com/Cour-de-cassation:
-https://github.com/DGA-MI-SSI:
-https://github.com/DGFiP:
-https://github.com/DGTresor:
-https://gitlab.com/dreal-datalab:
-https://github.com/Bibliome:
-https://github.com/Delegation-numerique-en-sante:
-https://github.com/EDS-APHP:
-https://github.com/Envinorma
-https://github.com/CEREMA:
-https://github.com/DREAL-NA:
-https://github.com/GendarmerieNationale:
-https://github.com/IRSN:
-https://github.com/InseeFr:
-https://github.com/InseeFrLab:
-https://github.com/OCSInventory-NG:
-https://github.com/PnCevennes:
-https://github.com/PnEcrins:
-https://github.com/PnX-SI:
-https://github.com/addok:
-https://github.com/administration-solrep:
-https://github.com/afimb:
-https://github.com/ambanum:
-https://github.com/anct-cnum:
-https://github.com/ansforge:
-https://github.com/aphp:
-https://github.com/assurance-maladie-digital:
-https://github.com/banquedefrance:
-https://github.com/caml-pkcs11:
-https://github.com/caradoc-org:
-https://github.com/cget-carto:
-https://github.com/clipos:
-https://github.com/clipos-archive:
-https://github.com/communaute-cimi:
-https://github.com/consultation-gouv:
-https://github.com/cour-des-comptes:
-https://github.com/cre-dev:
-https://github.com/cstb:
-https://github.com/cw-leia:
-https://github.com/datagir:
-https://github.com/datalab-mi:
-https://github.com/datalocale:
-https://github.com/dfir-orc:
-https://github.com/dgac:
-https://github.com/diplomatiegouvfr:
+https://gitlab.mobilites-m.fr:
+https://gitlabjf.ccomptes.fr:

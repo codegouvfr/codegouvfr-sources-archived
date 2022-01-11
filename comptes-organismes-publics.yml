@@ -719,6 +719,14 @@ https://github.com/sofa-framework:
   - Institut national de recherche en sciences et technologies du numérique
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/sedfoam:
+  service_of:
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
+https://github.com/fluiddyn:
+  service_of:
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
 https://framagit.org/datatourisme:
 https://framagit.org/openfisca:
 https://git.ademe.fr:

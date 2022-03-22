@@ -1160,7 +1160,12 @@ https://src.koda.cnrs.fr:
   service_of:
   - Centre national de la recherche scientifique
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
-  
+
+https://src.koda.dsi.cnrs.fr:
+  service_of:
+  - Centre national de la recherche scientifique
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+
 https://github.com/cosae-fr:
   service_of:
 

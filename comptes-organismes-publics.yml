@@ -1156,6 +1156,11 @@ https://github.com/oss-pole-emploi:
   service_of:
   - Ministère du Travail, de l'Emploi et de l'Insertion
 
+https://src.koda.cnrs.fr:
+  service_of:
+  - Centre national de la recherche scientifique
+  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  
 https://github.com/cosae-fr:
   service_of:
 

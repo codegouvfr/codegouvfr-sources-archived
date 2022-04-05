@@ -586,6 +586,11 @@ https://gitlab.adullact.net/marche-sll:
   service_of:
   - Ministère de l'Économie, des Finances et de la Relance
 
+https://gitlab.com/BDNB:
+  service_of:
+  - Centre scientifique et technique du bâtiment
+  - Ministère de la Transition écologique
+
 https://gitlab.ccsd.cnrs.fr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation

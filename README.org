@@ -34,4 +34,4 @@ forge en écrivant à [[mailto:logiciels-libres@data.gouv.fr][logiciels-libres@d
 
 Le contenu de ce dépôt est sous [[file:LICENSE.md][licence Ouverte 2.0]].
 
-2018-2021 DINUM, Etalab.
+2018-2022 DINUM, Etalab.

@@ -16,8 +16,8 @@ Vos contributions sont les bienvenues !
 
 Pour chaque compte d'organisation, vous pouvez indiquer :
 
-- =service_of= : L'institution dont dépend le compte.  Il peut y avoir
-  plusieurs institutions: placer les plus proches en haut.
+- =service_of= : L'institution dont dépend le compte.  S'il y en a
+  plusieurs, placer la plus proche en premier.
 - =floss_policy= : Le lien vers la politique logiciels libres du compte.
 
 Vous pouvez envoyer vos correctifs ("patches") par mail en texte brut

@@ -264,6 +264,12 @@ https://github.com/StartupsPoleEmploi:
   service_of:
   - Ministère du Travail, de l'Emploi et de l'Insertion
 
+https://github.com/mission-apprentissage:
+  floss_policy:
+  - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+  service_of:
+  - Ministère du Travail, de l'Emploi et de l'Insertion
+
 https://github.com/X-DataInitiative:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
@@ -999,11 +1005,6 @@ https://github.com/micmacIGN:
   service_of:
   - Ministère de la Transition écologique
   - Ministère de l'Agriculture et de l'Alimentation
-
-https://github.com/mission-apprentissage:
-  service_of:
-  - Direction interministérielle du numérique
-  - Ministère de la Transformation et de la Fonction publiques
 
 https://github.com/nanterre:
   service_of:

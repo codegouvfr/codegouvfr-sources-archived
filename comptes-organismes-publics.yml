@@ -21,6 +21,10 @@ https://forgemia.inra.fr:
 https://framagit.org/etalab:
   floss_policy:
   - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
 
 https://framagit.org/parcoursup:
   service_of:
@@ -402,6 +406,14 @@ https://github.com/etalab-ia:
   - Ministère de la transformation et de la fonction publiques
 
 https://github.com/etalab:
+  floss_policy:
+  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
+https://sr.ht/~etalab:
   floss_policy:
   - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
   service_of:

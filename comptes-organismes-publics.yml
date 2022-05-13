@@ -655,6 +655,8 @@ https://gitlab.com/has-sante:
 https://gitlab.com/healthdatahub:
   floss_policy:
   - https://www.health-data-hub.fr/open-source
+  service_of:
+  - Ministère des Solidarités et de la Santé
 
 https://gitlab.com/musee-saint-raymond:
   service_of:

@@ -1030,11 +1030,13 @@ https://github.com/micmacIGN:
 https://github.com/nanterre:
   service_of:
   - Mairie de Nanterre
+  - Fonction publique territoriale
 
 https://github.com/nantesmetropole:
   service_of:
   - Nantes Métropole
   - Ville de Nantes
+  - Fonction publique territoriale
 
 https://github.com/observatoire-territoires:
   service_of:
@@ -1056,6 +1058,7 @@ https://github.com/orleans-metropole:
   service_of:
   - Mairie d'Orléans
   - Orléans Métropole
+  - Fonction publique territoriale
 
 https://github.com/polewebmaedi:
   service_of:
@@ -1064,6 +1067,7 @@ https://github.com/polewebmaedi:
 https://github.com/region-bretagne:
   service_of:
   - Région Bretagne
+  - Fonction publique territoriale
 
 https://github.com/signaux-faibles:
   service_of:
@@ -1074,6 +1078,7 @@ https://github.com/signaux-faibles:
 https://github.com/sigrennesmetropole:
   service_of:
   - Rennes Métropole
+  - Fonction publique territoriale
 
 https://github.com/snosan-tools:
   service_of:
@@ -1120,7 +1125,8 @@ https://gitlab.adullact.net/datatourisme:
 
 https://github.com/polymny:
   service_of:
-  - La Région Occitanie
+  - Région Occitanie
+  - Fonction publique territoriale
 
 https://gitlab.com/CSTB:
   service_of:
@@ -1129,7 +1135,8 @@ https://gitlab.com/CSTB:
 
 https://gitlab.com/dreal-datalab:
   service_of:
-  - Préfet de la région Pays de la Loire
+  - Région Pays de la Loire
+  - Fonction publique territoriale
 
 https://gitlab.com/france-mobilites:
   service_of:
@@ -1143,8 +1150,6 @@ https://gitlab.com/peren:
   service_of:
   - Pôle d'Expertise de la Régulation Numérique
   - Ministère de l'Économie, des Finances et de la Relance
-  - Ministère de la Culture
-  - Secrétariat d'État chargé du Numérique
 
 https://gitlab.com/pidila:
   service_of:
@@ -1163,8 +1168,8 @@ https://gitlab.factory.social.gouv.fr:
 
 https://gitlab.mobilites-m.fr:
   service_of:
-  - Ville de Grenoble
-  - Ministère de la Transition écologique
+  - Syndicat Mixte des Mobilités de l'Aire Grenobloise
+  - Fonction publique territoriale
 
 https://gitlabjf.ccomptes.fr:
   service_of:

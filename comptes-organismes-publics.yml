@@ -1036,8 +1036,8 @@ https://github.com/nanterre:
 
 https://github.com/nantesmetropole:
   service_of:
+  - Mairie de Nantes
   - Nantes Métropole
-  - Ville de Nantes
   - Fonction publique territoriale
 
 https://github.com/observatoire-territoires:
@@ -1114,11 +1114,13 @@ https://gitlab.adullact.net/e-carre:
 
 https://gitlab.adullact.net/gip-recia-snc:
   service_of:
-  - Région Centre Interactive
+  - Région Centre
+  - Fonction publique territoriale
 
 https://gitlab.adullact.net/larochelle:
   service_of:
   - Mairie de La Rochelle
+  - Fonction publique territoriale
 
 https://gitlab.adullact.net/datatourisme:
   service_of:

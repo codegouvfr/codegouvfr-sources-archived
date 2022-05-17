@@ -1227,13 +1227,47 @@ https://github.com/biblissima:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
+https://github.com/antibes-dev:
+  service_of:
+  - Mairie d'Antibes
+  - Fonction publique territoriale
+
+https://github.com/strasbourg:
+  service_of:
+  - Mairie de Strasbourg
+  - Fonction publique territoriale
+
+https://github.com/PnCevennes:
+  service_of:
+  - Parc national des Cévennes
+  - Ministère de la Transition écologique
+
+https://github.com/PnEcrins:
+  service_of:
+  - Parc national des Écrins
+  - Ministère de la Transition écologique
+
+https://github.com/lutece-secteur-public:
+  service_of:
+  - Mairie de Paris
+  - Fonction publique territoriale
+
+https://github.com/messagerie-melanie2:
+  service_of:
+  - Ministère de la Transition écologique
+
+https://gitlab.adullact.net/prodigeadmin:
+  service_of:
+  - Ministère de la Transition écologique
+
+https://gitlab.adullact.net/socio-connect:
+  service_of:
+  - Ministère des Solidarités et de la Santé
+
 https://github.com/cosae-fr:
   service_of:
 
 https://gitlab.com/dai-projets:
-  service_of:
-
-https://github.com/antibes-dev:
   service_of:
 
 https://github.com/datalocale:
@@ -1245,19 +1279,10 @@ https://github.com/erasme:
 https://gitlab.com/op18-enki:
   service_of:
 
-https://github.com/strasbourg:
-  service_of:
-
 https://github.com/sipf:
   service_of:
 
 https://github.com/picty:
-  service_of:
-
-https://github.com/PnCevennes:
-  service_of:
-
-https://github.com/PnEcrins:
   service_of:
 
 https://github.com/PnX-SI:
@@ -1269,20 +1294,8 @@ https://github.com/administration-solrep:
 https://github.com/caradoc-org:
   service_of:
 
-https://github.com/lutece-secteur-public:
-  service_of:
-
-https://github.com/messagerie-melanie2:
-  service_of:
-
 https://github.com/rusticata:
   service_of:
 
 https://gitlab.com/api-meubles:
-  service_of:
-
-https://gitlab.adullact.net/prodigeadmin:
-  service_of:
-
-https://gitlab.adullact.net/socio-connect:
   service_of:

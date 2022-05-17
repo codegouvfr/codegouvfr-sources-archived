@@ -1264,6 +1264,14 @@ https://gitlab.adullact.net/socio-connect:
   service_of:
   - Ministère des Solidarités et de la Santé
 
+https://github.com/radiofrance:
+  service_of:
+  - Radio France
+
+https://gitlab.com/radiofrance:
+  service_of:
+  - Radio France
+
 https://github.com/cosae-fr:
   service_of:
 

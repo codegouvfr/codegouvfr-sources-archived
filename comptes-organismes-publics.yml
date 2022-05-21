@@ -8,7 +8,8 @@ https://edu-git.ac-versailles.fr:
 
 https://forge.grandlyon.com:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Lyon Métropole
+  - Fonction publique territoriale
 
 https://forge.univ-lyon1.fr:
   service_of:
@@ -1252,6 +1253,11 @@ https://github.com/lutece-secteur-public:
   - Mairie de Paris
   - Fonction publique territoriale
 
+https://github.com/lutece-platform:
+  service_of:
+  - Mairie de Paris
+  - Fonction publique territoriale
+
 https://github.com/messagerie-melanie2:
   service_of:
   - Ministère de la Transition écologique
@@ -1272,28 +1278,40 @@ https://gitlab.com/radiofrance:
   service_of:
   - Radio France
 
-https://github.com/cosae-fr:
-  service_of:
-
 https://gitlab.com/dai-projets:
   service_of:
+  - Institut national de l'information géographique et forestière
+  - Ministère de la Transition écologique
 
 https://github.com/datalocale:
   service_of:
+  - Département de la Gironde
+  - Fonction publique territoriale
 
 https://github.com/erasme:
   service_of:
+  - Lyon Métropole
+  - Fonction publique territoriale
 
 https://gitlab.com/op18-enki:
   service_of:
+  - Agence du Numérique de la Sécurité Civile
+  - Ministère de l'Intérieur
+
+https://github.com/PnX-SI:
+  service_of:
+  - Parc national des Écrins
+  - Ministère de la Transition écologique
+
+https://gitlab.com/api-meubles:
+  service_of:
+  - Direction Générale des Entreprises
+  - Ministère de l'Économie, des Finances et de la Relance
 
 https://github.com/sipf:
   service_of:
 
 https://github.com/picty:
-  service_of:
-
-https://github.com/PnX-SI:
   service_of:
 
 https://github.com/administration-solrep:
@@ -1305,5 +1323,5 @@ https://github.com/caradoc-org:
 https://github.com/rusticata:
   service_of:
 
-https://gitlab.com/api-meubles:
+https://github.com/cosae-fr:
   service_of:

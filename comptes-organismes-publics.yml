@@ -1148,6 +1148,11 @@ https://gitlab.com/dreal-datalab:
   - Région Pays de la Loire
   - Fonction publique territoriale
 
+https://gitlab.adullact.net/prodigeadmin:
+  service_of:
+  - Commissariat général au développement durable
+  - Ministère de la Transition écologique
+
 https://gitlab.com/france-mobilites:
   service_of:
   - Ministère de la Transition écologique

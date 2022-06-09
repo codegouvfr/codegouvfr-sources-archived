@@ -32,6 +32,10 @@ Pour ces mails, pensez à configurer votre copie locale du dépôt :
 Vous pouvez signaler un nouveau compte d'organisation ou une nouvelle
 forge en écrivant à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
+Nous n'acceptons les contributions que si elles sont signées (*signed
+off*) du vrai nom du contributeur.  En signant ses contributions, le
+contributeur accepte le [developer certificate of origin](https://developercertificate.org).
+
 
 # Licence
 

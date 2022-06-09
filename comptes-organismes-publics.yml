@@ -1328,13 +1328,15 @@ https://gitlab.com/api-meubles:
   - Direction Générale des Entreprises
   - Ministère de l'Économie, des Finances et de la Relance
 
+https://github.com/administration-solrep:
+  service_of:
+  - Direction de l'information légale et administrative
+  - Services du Premier Ministre
+
 https://github.com/sipf:
   service_of:
 
 https://github.com/picty:
-  service_of:
-
-https://github.com/administration-solrep:
   service_of:
 
 https://github.com/caradoc-org:

@@ -1148,7 +1148,7 @@ https://gitlab.com/dreal-datalab:
   - Région Pays de la Loire
   - Fonction publique territoriale
 
-https://gitlab.adullact.net/prodigeadmin:
+https://gitlab.adullact.net/prodige:
   service_of:
   - Commissariat général au développement durable
   - Ministère des Solidarités et de la Santé
@@ -1279,10 +1279,6 @@ https://github.com/lutece-platform:
   - Fonction publique territoriale
 
 https://github.com/messagerie-melanie2:
-  service_of:
-  - Ministère de la Transition écologique
-
-https://gitlab.adullact.net/prodigeadmin:
   service_of:
   - Ministère de la Transition écologique
 

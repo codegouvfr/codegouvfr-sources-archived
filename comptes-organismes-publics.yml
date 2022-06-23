@@ -1333,6 +1333,10 @@ https://github.com/administration-solrep:
   - Direction de l'information légale et administrative
   - Services du Premier Ministre
 
+https://github.com/ssmsi-diffusion:
+  service_of:
+  - Ministère de l'Intérieur
+
 https://github.com/sipf:
   service_of:
 

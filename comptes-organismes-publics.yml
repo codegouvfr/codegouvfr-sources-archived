@@ -720,9 +720,9 @@ https://gitlab.inria.fr/why3:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
-https://gitlab.inria.fr:
-  service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  https://gitlab.inria.fr:
+    service_of:
+    - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
 https://gitlab.irstea.fr:
   service_of:
@@ -757,10 +757,20 @@ https://gitlab-forge.din.developpement-durable.gouv.fr/:
   - Ministère de la Transition écologique
 
 https://gitlab-forge.din.developpement-durable.gouv.fr/dreal-pdl:
-  service_of
+  service_of:
   - Ministère de la Transition écologique
   - Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Pays de la Loire
 
+https://gitlab-forge.din.developpement-durable.gouv.fr/pub/dreal-grandest:
+  service_of:
+  - Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Grand Est
+  - Ministère de la Transition écologique
+  - Direction régionale de l'environnement, de l'aménagement et du logement
+ 
+ https://gitlab-forge.din.developpement-durable.gouv.fr/pub/snumarchi:
+  service_of:
+  - Ministère de la Transition écologique
+  
 https://gitub.u-bordeaux.fr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation

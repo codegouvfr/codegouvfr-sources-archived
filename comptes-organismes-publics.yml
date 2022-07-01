@@ -770,7 +770,11 @@ https://gitlab-forge.din.developpement-durable.gouv.fr/pub/dreal-grandest:
  https://gitlab-forge.din.developpement-durable.gouv.fr/pub/snumarchi:
   service_of:
   - Ministère de la Transition écologique
-  
+
+ https://gitlab-forge.din.developpement-durable.gouv.fr/pub: 
+  service_of:
+  - Ministère de la Transition écologique
+
 https://gitub.u-bordeaux.fr:
   service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation

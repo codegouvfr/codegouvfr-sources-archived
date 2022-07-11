@@ -1,6 +1,6 @@
 https://dev.ch-poitiers.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://edu-git.ac-versailles.fr:
   service_of:
@@ -13,11 +13,11 @@ https://forge.grandlyon.com:
 
 https://forge.univ-lyon1.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://forgemia.inra.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://framagit.org/etalab:
   floss_policy:
@@ -29,27 +29,27 @@ https://framagit.org/etalab:
 
 https://framagit.org/parcoursup:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://framagit.org/synalp:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://git.cines.fr/dad:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://git.unicaen.fr/crisco-des-public:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://git.unicaen.fr/open-source:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://git.unicaen.fr/pdn-certic:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/139bercy:
   service_of:
@@ -61,7 +61,7 @@ https://github.com/AC-Rennes-OpenSource:
 
 https://github.com/Antique-team:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/ApieFrance:
   service_of:
@@ -75,27 +75,27 @@ https://github.com/AssuranceMaladieSec:
 
 https://github.com/Barometre-de-la-Science-Ouverte:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/BRGM:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/BibCnrs:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/CCSDForge:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/CNRS-DSI-Dev:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/CatalaLang:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/DGFiP:
   service_of:
@@ -107,15 +107,15 @@ https://github.com/DGTresor:
 
 https://github.com/DIVERSIFY-project:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/DSI-Universite-Rennes2:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/Deducteam:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/Delegation-numerique-en-sante:
   service_of:
@@ -127,11 +127,11 @@ https://github.com/EDS-APHP:
 
 https://github.com/EsupPortail:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/GHFC:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/GendarmerieNationale:
   service_of:
@@ -139,15 +139,19 @@ https://github.com/GendarmerieNationale:
 
 https://github.com/Geographie-cites:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/HolAutisme:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/IGNF:
   service_of:
   - Institut national de l'information géographique et forestière
+  - Ministère de la Transition écologique
+
+https://gitlab-forge.din.developpement-durable.gouv.fr:
+  service_of:
   - Ministère de la Transition écologique
 
 https://github.com/iTowns:
@@ -157,31 +161,31 @@ https://github.com/iTowns:
 
 https://github.com/INHAParis:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/INRA:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/INSIDE-information-systems:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/Icy-imaging:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/Ifsttar:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/Inist-CNRS:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/InriaMecsci:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/InterieurGouvFr:
   service_of:
@@ -189,11 +193,11 @@ https://github.com/InterieurGouvFr:
 
 https://github.com/Irstea:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/JMMC-OpenDev:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/LAB-MI:
   floss_policy:
@@ -201,11 +205,11 @@ https://github.com/LAB-MI:
 
 https://github.com/LETG:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/LaboratoryOfPlasmaPhysics:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/LemonLDAPNG:
   service_of:
@@ -217,7 +221,7 @@ https://github.com/MINAGRI-INITIAL:
 
 https://github.com/MLanguage:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/MTES-MCT:
   floss_policy:
@@ -228,23 +232,23 @@ https://github.com/MTES-MCT:
 
 https://github.com/MinistereSupRecherche:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/OPIDoR:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/OpenEdition:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/OpenFLUID:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/PHAREHUB:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/PrefectureDePolice:
   service_of:
@@ -261,11 +265,11 @@ https://github.com/ArchivesNationalesFR:
 
 https://github.com/SciQLop:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/SimPLU3D:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/SocialGouv:
   floss_policy:
@@ -273,7 +277,7 @@ https://github.com/SocialGouv:
 
 https://github.com/Spirals-Team:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/StartupsPoleEmploi:
   floss_policy:
@@ -289,13 +293,13 @@ https://github.com/mission-apprentissage:
 
 https://github.com/X-DataInitiative:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/abes-esr:
   floss_policy:
   - https://github.com/abes-esr/abes-politique-developpement
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/ac-nantes-dec:
   service_of:
@@ -319,7 +323,7 @@ https://github.com/assurance-maladie-digital:
 
 https://github.com/atlanmod:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/betagouv:
   floss_policy:
@@ -331,27 +335,27 @@ https://github.com/betagouv:
 
 https://github.com/cea-hpc:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/cea-leti:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/cea-list:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/cea-sec:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/coq:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/ctools:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/culturecommunication:
   service_of:
@@ -359,7 +363,7 @@ https://github.com/culturecommunication:
 
 https://github.com/dataesr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/dinum-HubEE:
   service_of:
@@ -375,7 +379,7 @@ https://github.com/disic:
 
 https://github.com/diverse-project:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/dnum-mi:
   service_of:
@@ -383,7 +387,7 @@ https://github.com/dnum-mi:
 
 https://github.com/dsi-ehess:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/ecolabdata:
   service_of:
@@ -392,7 +396,7 @@ https://github.com/ecolabdata:
 
 https://github.com/elabftw:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/entrepreneur-interet-general:
   floss_policy:
@@ -432,7 +436,7 @@ https://sr.ht/~etalab:
 
 https://github.com/ezpaarse-project:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/fabnumdef:
   floss_policy:
@@ -446,23 +450,23 @@ https://github.com/france-connect:
 
 https://github.com/gammalib:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/gemoc:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/genotoul-bioinfo:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/gip-recia:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/guix-mirror:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/histovec:
   service_of:
@@ -474,11 +478,11 @@ https://github.com/ia-flash:
 
 https://github.com/ifremer-bioinformatics:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/imagesdesmaths:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/ina-foss:
   service_of:
@@ -490,27 +494,27 @@ https://github.com/incubateur-territoires:
 
 https://github.com/inrae:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/inria:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/iscpif:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/istex:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/ivre:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/linbox-team:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/matchid-project:
   floss_policy:
@@ -522,15 +526,15 @@ https://github.com/medialab:
   floss_policy:
   - https://medialab.sciencespo.fr/a-propos/#deontology
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/metwork-framework:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/neuroanatomy:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/numerique-gouv:
   service_of:
@@ -541,7 +545,7 @@ https://github.com/numerique-gouv:
 https://github.com/ocaml:
   service_of:
   - Institut national de recherche en informatique et en automatique
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/opendatateam:
   floss_policy:
@@ -553,11 +557,11 @@ https://github.com/opendatateam:
 
 https://github.com/openfun:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/openmole:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/pass-culture:
   service_of:
@@ -565,15 +569,15 @@ https://github.com/pass-culture:
 
 https://github.com/plantnet:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/powerapi-ng:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/riatelab:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/sgmap-agd:
   floss_policy:
@@ -585,7 +589,7 @@ https://github.com/sgmap-agd:
 
 https://github.com/sympa-community:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/tchapgouv:
   service_of:
@@ -595,19 +599,19 @@ https://github.com/tchapgouv:
 
 https://github.com/unistra:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/vle-forge:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab-research.centralesupelec.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.adullact.net/UPSud:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.adullact.net/aife:
   service_of:
@@ -628,11 +632,11 @@ https://gitlab.com/BDNB:
 
 https://gitlab.ccsd.cnrs.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.cerema.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.com/DREES_code:
   service_of:
@@ -648,7 +652,7 @@ https://gitlab.com/arsante:
 
 https://gitlab.com/cortext:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.com/fabnum-minarm:
   floss_policy:
@@ -670,71 +674,75 @@ https://gitlab.com/musee-saint-raymond:
 
 https://gitlab.fresnel.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.huma-num.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.in2p3.fr/Enssib:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.inria.fr/belenios:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.inria.fr/cedar:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.inria.fr/coquelicot:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.inria.fr/dsi_public:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.inria.fr/guix-hpc:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.inria.fr/openvibe:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.inria.fr/stopcovid19:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.inria.fr/verifisc:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.inria.fr/vidjil:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.inria.fr/why3:
   service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.inria.fr:
+  service_of:
   - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
-  https://gitlab.inria.fr:
-    service_of:
-    - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+https://gitlab.inria.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.irstea.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.math.unistra.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.mbb.cnrs.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.mim-libre.fr:
   service_of:
@@ -742,7 +750,7 @@ https://gitlab.mim-libre.fr:
 
 https://gitlab.orfeo-toolbox.org:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.ow2.org/lemonldap-ng:
   service_of:
@@ -750,7 +758,7 @@ https://gitlab.ow2.org/lemonldap-ng:
 
 https://gitlab.u-psud.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab-forge.din.developpement-durable.gouv.fr/:
   service_of: 
@@ -758,51 +766,50 @@ https://gitlab-forge.din.developpement-durable.gouv.fr/:
 
 https://gitlab-forge.din.developpement-durable.gouv.fr/dreal-pdl:
   service_of:
-  - Ministère de la Transition écologique
   - Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Pays de la Loire
+  - Ministère de la Transition écologique
 
 https://gitlab-forge.din.developpement-durable.gouv.fr/pub/dreal-grandest:
   service_of:
   - Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Grand Est
   - Ministère de la Transition écologique
-  - Direction régionale de l'environnement, de l'aménagement et du logement
  
- https://gitlab-forge.din.developpement-durable.gouv.fr/pub/snumarchi:
+https://gitlab-forge.din.developpement-durable.gouv.fr/pub/snumarchi:
   service_of:
   - Ministère de la Transition écologique
 
- https://gitlab-forge.din.developpement-durable.gouv.fr/pub: 
+https://gitlab-forge.din.developpement-durable.gouv.fr/pub: 
   service_of:
   - Ministère de la Transition écologique
 
 https://gitub.u-bordeaux.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gricad-gitlab.univ-grenoble-alpes.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://plmlab.math.cnrs.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/premierlangage:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/sofa-framework:
   service_of:
   - Institut national de recherche en sciences et technologies du numérique
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/sedfoam:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/fluiddyn:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://framagit.org/datatourisme:
   service_of:
@@ -811,7 +818,7 @@ https://framagit.org/datatourisme:
 
 https://git.ademe.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
   - Ministère de la Transition écologique
 
 https://git.beta.pole-emploi.fr:
@@ -821,7 +828,7 @@ https://git.beta.pole-emploi.fr:
 https://github.com/1024pix:
   service_of:
   - Ministère de l'Éducation nationale, de la Jeunesse et des Sports
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/AFB-dataviz:
   service_of:
@@ -851,7 +858,7 @@ https://github.com/BaseAdresseNationale:
 
 https://github.com/Bibliome:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
   - Ministère de l'Agriculture et de l'Alimentation
 
 https://github.com/CEREMA:
@@ -884,7 +891,7 @@ https://github.com/IRSN:
   - Ministère de la Transition Écologique et Solidaire
   - Ministère chargé de l'Industrie
   - Ministère des Armées
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/InseeFr:
   service_of:
@@ -1021,11 +1028,11 @@ https://github.com/georchestra:
 
 https://github.com/plasmabio:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.in2p3.fr/lpnhe:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/OCSInventory-NG:
   service_of:
@@ -1230,16 +1237,16 @@ https://framagit.org/openfisca:
 
 https://gitlab.com/e-combox:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/Renater:
   service_of:
   - GIP RENATER
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/DUT-Info-Montreuil:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/oss-pole-emploi:
   service_of:
@@ -1248,12 +1255,12 @@ https://github.com/oss-pole-emploi:
 https://src.koda.cnrs.fr:
   service_of:
   - Centre national de la recherche scientifique
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://src.koda.dsi.cnrs.fr:
   service_of:
   - Centre national de la recherche scientifique
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/AutoriteDeLaConcurrence:
   service_of:
@@ -1265,15 +1272,15 @@ https://github.com/e-PSHAD:
 
 https://github.com/biblissima:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/crillab:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.cirad.fr:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/antibes-dev:
   service_of:

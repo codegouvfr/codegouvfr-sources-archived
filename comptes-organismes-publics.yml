@@ -764,6 +764,11 @@ https://gitlab.ow2.org/lemonldap-ng:
   service_of:
   - Ministère de l'Intérieur
 
+https://gitlab.ow2.org/sympa:
+  service_of:
+  - GIP RENATER
+  - Ministère de l'enseignement supérieur et de la recherche
+
 https://gitlab.u-psud.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche

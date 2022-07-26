@@ -774,7 +774,7 @@ https://gitlab.u-psud.fr:
   - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab-forge.din.developpement-durable.gouv.fr/:
-  service_of: 
+  service_of:
   - Ministère de la Transition écologique
 
 https://gitlab-forge.din.developpement-durable.gouv.fr/dreal-pdl:
@@ -786,12 +786,12 @@ https://gitlab-forge.din.developpement-durable.gouv.fr/pub/dreal-grandest:
   service_of:
   - Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Grand Est
   - Ministère de la Transition écologique
- 
+
 https://gitlab-forge.din.developpement-durable.gouv.fr/pub/snumarchi:
   service_of:
   - Ministère de la Transition écologique
 
-https://gitlab-forge.din.developpement-durable.gouv.fr/pub: 
+https://gitlab-forge.din.developpement-durable.gouv.fr/pub:
   service_of:
   - Ministère de la Transition écologique
 
@@ -1175,7 +1175,7 @@ https://gitlab.adullact.net/larochelle:
   - Mairie de La Rochelle
   - Fonction publique territoriale
 
-https://gitlab.adullact.net/linc1/
+https://gitlab.adullact.net/linc1/:
   service_of:
   - Commission nationale de l'informatique et des libertés
 

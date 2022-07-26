@@ -1290,6 +1290,10 @@ https://gitlab.cirad.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
+https://gitlab.telecom-paris.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
 https://github.com/antibes-dev:
   service_of:
   - Mairie d'Antibes

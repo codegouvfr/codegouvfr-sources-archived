@@ -1166,6 +1166,10 @@ https://gitlab.adullact.net/larochelle:
   - Mairie de La Rochelle
   - Fonction publique territoriale
 
+https://gitlab.adullact.net/linc1/
+  service_of:
+  - Commission nationale de l'informatique et des libertés
+
 https://gitlab.adullact.net/dge:
   service_of:
   - Direction Générale des Entreprises

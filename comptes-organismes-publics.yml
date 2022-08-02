@@ -1398,13 +1398,19 @@ https://github.com/codedgafp:
   - Services du Premier Ministre
   - Ministère de la transformation et de la fonction publiques
 
-https://github.com/sipf:
+https://gitlab.inha.fr:
   service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/picty:
   service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/caradoc-org:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/sipf:
   service_of:
 
 https://github.com/rusticata:

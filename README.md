@@ -1,7 +1,7 @@
 [![img](https://img.shields.io/badge/Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/LICENSE.md)
 
 
-# Listes des comptes d'organisation
+# Liste des comptes d'organisation
 
 Cette page présente les listes des comptes d'organisation où les
 administrations publiques publient des codes sources.

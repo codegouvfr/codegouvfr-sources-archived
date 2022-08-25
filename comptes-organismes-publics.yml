@@ -1414,6 +1414,38 @@ https://github.com/GreycLab:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
+https://forge.ins2i.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://forge.ird.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.lip6.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.univ-lille.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.cristal.univ-lille.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab-fil.univ-lille.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.mbb.univ-montp2.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.obspm.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
 https://github.com/sipf:
   service_of:
 
@@ -1422,3 +1454,4 @@ https://github.com/rusticata:
 
 https://github.com/cosae-fr:
   service_of:
+

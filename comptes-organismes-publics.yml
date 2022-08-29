@@ -536,6 +536,12 @@ https://github.com/medialab:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
+https://github.com/AtelierCartographie:
+  floss_policy:
+  - https://medialab.sciencespo.fr/a-propos/#deontology
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
 https://github.com/metwork-framework:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche

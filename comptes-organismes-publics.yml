@@ -80,6 +80,8 @@ https://github.com/ApieFrance:
 https://github.com/AssuranceMaladieSec:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://github.com/Barometre-de-la-Science-Ouverte:
   service_of:
@@ -128,10 +130,14 @@ https://github.com/Deducteam:
 https://github.com/Delegation-numerique-en-sante:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://github.com/EDS-APHP:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://github.com/EsupPortail:
   service_of:
@@ -324,14 +330,20 @@ https://github.com/academiePoitiers:
 https://github.com/ansforge:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://github.com/aphp:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://github.com/assurance-maladie-digital:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://github.com/atlanmod:
   service_of:
@@ -673,6 +685,8 @@ https://gitlab.cerema.fr:
 https://gitlab.com/DREES_code:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://gitlab.com/affelnet-lycee-group:
   service_of:
@@ -681,6 +695,8 @@ https://gitlab.com/affelnet-lycee-group:
 https://gitlab.com/arsante:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://gitlab.com/cortext:
   service_of:
@@ -693,6 +709,8 @@ https://gitlab.com/fabnum-minarm:
 https://gitlab.com/has-sante:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://gitlab.com/healthdatahub:
   floss_policy:
@@ -935,6 +953,8 @@ https://github.com/IRSN:
   - Ministère chargé de l'Industrie
   - Ministère des Armées
   - Ministère de l'enseignement supérieur et de la recherche
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://github.com/InseeFr:
   service_of:
@@ -1053,6 +1073,8 @@ https://github.com/diplomatiegouvfr:
 https://github.com/dnum-socialgouv:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://github.com/dsi-github:
   service_of:
@@ -1235,6 +1257,8 @@ https://gitlab.adullact.net/prodige:
   - Commissariat général au développement durable
   - Ministère des Solidarités et de la Santé
   - Ministère de la Transition écologique
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://gitlab.com/france-mobilites:
   service_of:
@@ -1263,6 +1287,8 @@ https://gitlab.com/rdes_dreal:
 https://gitlab.factory.social.gouv.fr:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://gitlab.mobilites-m.fr:
   service_of:
@@ -1321,6 +1347,8 @@ https://github.com/AutoriteDeLaConcurrence:
 https://github.com/e-PSHAD:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://github.com/biblissima:
   service_of:
@@ -1375,6 +1403,8 @@ https://github.com/messagerie-melanie2:
 https://gitlab.adullact.net/socio-connect:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://github.com/radiofrance:
   service_of:
@@ -1480,6 +1510,8 @@ https://gitlab.obspm.fr:
 https://github.com/dnum-sante-ars-data:
   service_of:
   - Ministère des Solidarités et de la Santé
+  floss_policy:
+  - https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
 
 https://github.com/sipf:
   service_of:

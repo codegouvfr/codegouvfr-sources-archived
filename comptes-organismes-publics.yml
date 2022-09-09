@@ -265,11 +265,15 @@ https://github.com/PrefectureDePolice:
 https://github.com/ProgrammeVitam:
   service_of:
   - Ministère de la Culture
+  floss_policy:
+  - https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
 
 https://github.com/ArchivesNationalesFR:
   service_of:
   - Archives nationales
   - Ministère de la Culture
+  floss_policy:
+  - https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
 
 https://github.com/SciQLop:
   service_of:
@@ -368,6 +372,8 @@ https://github.com/ctools:
 https://github.com/culturecommunication:
   service_of:
   - Ministère de la Culture
+  floss_policy:
+  - https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
 
 https://github.com/dataesr:
   service_of:
@@ -503,6 +509,8 @@ https://github.com/imagesdesmaths:
 https://github.com/ina-foss:
   service_of:
   - Ministère de la Culture
+  floss_policy:
+  - https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
 
 https://github.com/incubateur-territoires:
   floss_policy:
@@ -588,6 +596,8 @@ https://github.com/openmole:
 https://github.com/pass-culture:
   service_of:
   - Ministère de la Culture
+  floss_policy:
+  - https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
 
 https://github.com/plantnet:
   service_of:
@@ -693,6 +703,8 @@ https://gitlab.com/healthdatahub:
 https://gitlab.com/musee-saint-raymond:
   service_of:
   - Ministère de la Culture
+  floss_policy:
+  - https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
 
 https://gitlab.fresnel.fr:
   service_of:

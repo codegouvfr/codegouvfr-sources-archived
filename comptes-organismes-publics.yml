@@ -960,6 +960,11 @@ https://github.com/anct-cnum:
   - Direction interministérielle du numérique
   - Ministère de la transformation et de la fonction publiques
 
+https://github.com/anct-carto:
+  service_of:
+  - Direction interministérielle du numérique
+  - Ministère de la transformation et de la fonction publiques
+
 https://github.com/banquedefrance:
   service_of:
   - Banque de France

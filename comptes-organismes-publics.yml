@@ -1477,6 +1477,10 @@ https://github.com/dnum-sante-ars-data:
   service_of:
   - Ministère des Solidarités et de la Santé
 
+https://gitlab.sevre-nantaise.com:
+  service_of:
+  - Fonction publique territoriale
+
 https://github.com/sipf:
   service_of:
 

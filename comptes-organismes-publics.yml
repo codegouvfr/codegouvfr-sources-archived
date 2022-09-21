@@ -1481,6 +1481,30 @@ https://gitlab.sevre-nantaise.com:
   service_of:
   - Fonction publique territoriale
 
+https://gitlab.dsi.universite-paris-saclay.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlabev.imtbs-tsp.eu:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.labocleo.org:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://git.unilim.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.pmcs2i.ec-lyon.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.univ-nantes.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
 https://github.com/sipf:
   service_of:
 

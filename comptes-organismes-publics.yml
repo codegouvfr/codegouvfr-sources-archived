@@ -1505,6 +1505,12 @@ https://gitlab.univ-nantes.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
+https://github.com/DITP-pilotage:
+  service_of:
+  - Direction interministérielle de la transformation publique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
 https://github.com/sipf:
   service_of:
 

@@ -754,13 +754,13 @@ https://gitlab.inria.fr/vidjil:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
-https://gitlab.inria.fr/why3:
+https://gitlab.inria.fr/openalea:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
-https://gitlab.inria.fr:
+https://gitlab.inria.fr/why3:
   service_of:
-  - Ministère de l'enseignement supérieur, de la recherche et de l'innovation
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://gitlab.inria.fr:
   service_of:
@@ -1510,6 +1510,38 @@ https://github.com/DITP-pilotage:
   - Direction interministérielle de la transformation publique
   - Services du Premier Ministre
   - Ministère de la transformation et de la fonction publiques
+
+https://github.com/medInria:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/mimesis-inria:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/MmgTools:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/Inria-Empenn:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/vidjil:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/RMODINRIA:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/pharo-mooc:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/openalea:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/sipf:
   service_of:

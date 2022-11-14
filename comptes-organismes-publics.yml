@@ -158,6 +158,11 @@ https://github.com/IGNF:
   - Institut national de l'information géographique et forestière
   - Ministère de la Transition écologique
 
+https://gitlab.ofb.fr:
+  service_of:
+  - Office français de la biodiversité
+  - Ministère de la Transition écologique
+
 https://gitlab-forge.din.developpement-durable.gouv.fr:
   service_of:
   - Ministère de la Transition écologique

@@ -41,5 +41,5 @@ contributeur accepte le [developer certificate of origin](https://developercerti
 
 Le contenu de ce dépôt est sous [licence Ouverte 2.0](LICENSE.md).
 
-2018-2022 DINUM, Etalab.
+2018-2023 DINUM, Etalab.
 

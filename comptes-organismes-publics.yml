@@ -1006,6 +1006,11 @@ https://github.com/clipos:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
 
+https://github.com/cnigfr:
+  service_of:
+  - Conseil national de l'information géolocalisée
+  - Ministère de la Transition écologique et de la Cohésion des territoires
+
 https://github.com/communaute-cimi:
   service_of:
   - Ministère de l'Intérieur

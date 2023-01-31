@@ -1566,6 +1566,10 @@ https://lab.unif.app:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
+https://forge.aeif.fr:
+  service_of:
+  - Ministère de l'Éducation nationale, de la Jeunesse et des Sports
+
 https://github.com/sipf:
   service_of:
 

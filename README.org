@@ -28,7 +28,7 @@ Pour ces mails, pensez à configurer votre copie locale du dépôt :
 : git config format.subjectPrefix 'PATCH codegouvfr-sources'
 
 Vous pouvez signaler un nouveau compte d'organisation ou une nouvelle
-forge en écrivant à [[mailto:logiciels-libres@data.gouv.fr][logiciels-libres@data.gouv.fr]].
+forge en écrivant à [[mailto:contact@code.gouv.fr][contact@code.gouv.fr]].
 
 Nous n'acceptons les contributions que si elles sont signées (/signed
 off/) du vrai nom du contributeur.  En signant ses contributions, le

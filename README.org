@@ -1,4 +1,4 @@
-[[https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/LICENSE.md][https://img.shields.io/badge/Licence%20Ouverte-orange.svg?style=flat-square]]
+[[https://git.sr.ht/~codegouvfr/codegouvfr-sources/tree/master/item/LICENSE.md][https://img.shields.io/badge/Licence%20Ouverte-orange.svg?style=flat-square]]
 
 * Liste des comptes d'organisation
 
@@ -7,8 +7,8 @@ administrations publiques publient des codes sources.
 
 Ces informations sont les sources du site [[https://code.gouv.fr][code.gouv.fr]].
 
-- [[https://git.sr.ht/~etalab/codegouvfr-sources/blob/master/comptes-organismes-publics.yml][comptes-organismes-publics.yml]] : Liste principale.                                
-- [[https://git.sr.ht/~etalab/codegouvfr-sources/blob/master/comptes-organismes-publics-autres-forges][comptes-organismes-publics-autres-forges]] : Forges non suivies sur [[https://code.gouv.fr][code.gouv.fr]].
+- [[https://git.sr.ht/~codegouvfr/codegouvfr-sources/blob/master/comptes-organismes-publics.yml][comptes-organismes-publics.yml]] : Liste principale.                                
+- [[https://git.sr.ht/~codegouvfr/codegouvfr-sources/blob/master/comptes-organismes-publics-autres-forges][comptes-organismes-publics-autres-forges]] : Forges non suivies sur [[https://code.gouv.fr][code.gouv.fr]].
 
 * Contribuer
 
@@ -21,7 +21,7 @@ Pour chaque compte d'organisation, vous pouvez indiquer :
 - =floss_policy= : Le lien vers la politique logiciels libres du compte.
 
 Vous pouvez envoyer vos correctifs ("patches") par mail en texte brut
-sur la liste de développement : [[mailto:~etalab/codegouvfr-devel@lists.sr.ht][~etalab/codegouvfr-devel@lists.sr.ht]]
+sur la liste de développement : [[mailto:~codegouvfr/codegouvfr-devel@lists.sr.ht][~codegouvfr/codegouvfr-devel@lists.sr.ht]]
 
 Pour ces mails, pensez à configurer votre copie locale du dépôt :
 

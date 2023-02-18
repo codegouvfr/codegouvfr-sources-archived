@@ -805,6 +805,14 @@ https://gitlab.ow2.org/sympa:
   - GIP RENATER
   - Ministère de l'enseignement supérieur et de la recherche
 
+https://github.com/IPGP:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/grame-cncm:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
 https://gitlab.u-psud.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
@@ -1563,6 +1571,18 @@ https://gitlab.softwareheritage.org:
   - Ministère de l'enseignement supérieur et de la recherche
 
 https://lab.unif.app:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/scikit-learn:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/gammapy:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://github.com/gama-platform:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 

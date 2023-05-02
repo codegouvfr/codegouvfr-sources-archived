@@ -1594,6 +1594,10 @@ https://forge.aeif.fr:
   service_of:
   - Ministère de l'Éducation nationale, de la Jeunesse et des Sports
 
+https://code.peren.fr:
+  service_of:
+  - Ministère de l'Économie, des Finances et de la Relance
+
 https://gitlab.com/marshack:
   service_of:
   - Ministère des Armées

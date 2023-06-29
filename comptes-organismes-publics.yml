@@ -520,6 +520,12 @@ https://github.com/ina-foss:
 https://github.com/incubateur-territoires:
   floss_policy:
   - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+  service_of:
+  - Agence nationale de la cohésion des territoires
+
+https://gitlab.com/incubateur-territoires:
+  service_of:
+  - Agence nationale de la cohésion des territoires
 
 https://github.com/inrae:
   service_of:

@@ -1608,6 +1608,10 @@ https://gitlab.com/marshack:
   service_of:
   - Ministère des Armées
 
+https://gitlab.xlim.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
 https://github.com/gip-inclusion:
   service_of:
 

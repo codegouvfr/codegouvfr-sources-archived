@@ -23,7 +23,7 @@ Pour chaque compte d'organisation, vous pouvez indiquer :
 -   `floss_policy` : Le lien vers la politique logiciels libres du compte.
 
 Vous pouvez envoyer vos correctifs ("patches") par mail en texte brut
-sur la liste de développement : [~codegouvfr/codegouvfr-devel@lists.sr.ht](mailto:~codegouvfr/codegouvfr-devel@lists.sr.ht)
+sur la liste de développement : [~codegouvfr/dev@lists.sr.ht](mailto:~codegouvfr/dev@lists.sr.ht)
 
 Pour ces mails, pensez à configurer votre copie locale du dépôt :
 

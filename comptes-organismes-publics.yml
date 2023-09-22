@@ -1616,6 +1616,14 @@ https://gitlab.com/enit-idce:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
+https://github.com/viginum-fr:
+  service_of:
+  - Ministère des Armées
+
+https://gitlab.villejuif.fr:
+  - Mairie de Villejuif
+  - Fonction publique territoriale
+
 https://github.com/gip-inclusion:
   service_of:
 
@@ -1627,7 +1635,3 @@ https://github.com/rusticata:
 
 https://github.com/cosae-fr:
   service_of:
-
-https://gitlab.villejuif.fr:
-  - Mairie de Villejuif
-  - Fonction publique territoriale

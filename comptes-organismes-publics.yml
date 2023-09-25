@@ -1159,12 +1159,6 @@ https://github.com/opencti-platform:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
 
-https://github.com/openfisca:
-  service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques
-
 https://github.com/orleans-metropole:
   service_of:
   - Mairie d'Orléans
@@ -1624,6 +1618,12 @@ https://gitlab.villejuif.fr:
   - Mairie de Villejuif
   - Fonction publique territoriale
 
+https://github.com/dinum-operateur:
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
 https://github.com/gip-inclusion:
   service_of:
 
@@ -1634,4 +1634,7 @@ https://github.com/rusticata:
   service_of:
 
 https://github.com/cosae-fr:
+  service_of:
+
+https://github.com/openfisca:
   service_of:

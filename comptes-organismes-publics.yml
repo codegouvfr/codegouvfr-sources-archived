@@ -1624,6 +1624,12 @@ https://github.com/dinum-operateur:
   - Services du Premier Ministre
   - Ministère de la transformation et de la fonction publiques
 
+https://github.com/agora-gouv:
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
 https://github.com/gip-inclusion:
   service_of:
 

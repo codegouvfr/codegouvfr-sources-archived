@@ -823,25 +823,7 @@ https://gitlab.u-psud.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
-https://gitlab-forge.din.developpement-durable.gouv.fr/:
-  service_of:
-  - Ministère de la Transition écologique
-
-https://gitlab-forge.din.developpement-durable.gouv.fr/dreal-pdl:
-  service_of:
-  - Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Pays de la Loire
-  - Ministère de la Transition écologique
-
-https://gitlab-forge.din.developpement-durable.gouv.fr/pub/dreal-grandest:
-  service_of:
-  - Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Grand Est
-  - Ministère de la Transition écologique
-
-https://gitlab-forge.din.developpement-durable.gouv.fr/pub/snumarchi:
-  service_of:
-  - Ministère de la Transition écologique
-
-https://gitlab-forge.din.developpement-durable.gouv.fr/pub:
+https://gitlab-forge.din.developpement-durable.gouv.fr:
   service_of:
   - Ministère de la Transition écologique
 

@@ -1630,6 +1630,58 @@ https://github.com/agora-gouv:
   - Services du Premier Ministre
   - Ministère de la transformation et de la fonction publiques
 
+https://gitlab.utc.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.pasteur.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.math.univ-paris-diderot.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://git.ias.u-psud.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://cameleon.univ-lyon1.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://git.lacl.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gite.lirmm.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://depot.lipn.univ-paris13.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://git-xen.lmgc.univ-montp2.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.maisondelasimulation.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.lam.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.synchrotron-soleil.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://icube-forge.unistra.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
 https://github.com/gip-inclusion:
   service_of:
 

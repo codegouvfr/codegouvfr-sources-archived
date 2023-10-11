@@ -1674,6 +1674,12 @@ https://github.com/Semantic-Data-for-Humanities:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
+https://github.com/demarches-simplifiees:
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
 https://github.com/gip-inclusion:
   service_of:
 
@@ -1704,8 +1710,5 @@ https://gitlab.com/validata-table:
 https://git.opendatafrance.net:
   service_of:
 
-https://github.com/demarches-simplifiees:
+https://gitlab.adullact.net/soluris:
   service_of:
-  - Direction interministérielle du numérique
-  - Services du Premier Ministre
-  - Ministère de la transformation et de la fonction publiques

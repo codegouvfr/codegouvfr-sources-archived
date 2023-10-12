@@ -897,9 +897,6 @@ https://github.com/ARCEP-dev:
   service_of:
   - Autorité de Régulation des Communications Électroniques et des Postes (AAI)
 
-https://github.com/AccessiDys:
-  service_of:
-
 https://github.com/AgenceBio:
   service_of:
   - Ministère de l'Agriculture et de l'Alimentation
@@ -1197,9 +1194,6 @@ https://github.com/wookey-project:
 https://gitlab.adullact.net/departements-notaires:
   service_of:
   - Ministère de la Justice
-
-https://gitlab.adullact.net/e-carre:
-  service_of:
 
 https://gitlab.adullact.net/gip-recia-snc:
   service_of:
@@ -1684,14 +1678,22 @@ https://github.com/demarches-simplifiees:
 
 https://github.com/gip-inclusion:
   service_of:
-
-https://github.com/sipf:
-  service_of:
+  - Ministère du Travail, de l'Emploi et de l'Insertion
 
 https://github.com/rusticata:
   service_of:
+  - Agence nationale de la sécurité des systèmes d'information
+  - Secrétariat général de la Défense et de la Sécurité nationale
 
 https://github.com/cosae-fr:
+  service_of:
+  - Ministère de l'Économie, des Finances et de la Relance
+
+https://github.com/AccessiDys:
+  service_of:
+  - Ministère du Travail, de l'Emploi et de l'Insertion
+
+https://github.com/sipf:
   service_of:
 
 https://github.com/openfisca:
@@ -1713,4 +1715,7 @@ https://git.opendatafrance.net:
   service_of:
 
 https://gitlab.adullact.net/soluris:
+  service_of:
+
+https://github.com/AccessiDys:
   service_of:

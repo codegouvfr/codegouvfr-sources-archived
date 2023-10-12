@@ -345,6 +345,7 @@ https://github.com/atlanmod:
   - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/betagouv:
+  annuaire_dila_id: 125cf7e6-8138-4284-b545-fb378f25830b
   floss_policy:
   - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
   service_of:
@@ -353,6 +354,7 @@ https://github.com/betagouv:
   - Ministère de la transformation et de la fonction publiques
 
 https://github.com/cea-hpc:
+  annuaire_dila_id: 7f24a324-435c-4a2c-8c8e-a3d65ec7663d
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
@@ -361,6 +363,7 @@ https://github.com/cea-leti:
   - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/cea-list:
+  annuaire_dila_id: 1d8444ad-c623-4d0b-ae02-23324de7d22a
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
@@ -440,6 +443,7 @@ https://github.com/etalab-ia:
   - Ministère de la transformation et de la fonction publiques
 
 https://github.com/codegouvfr:
+  annuaire_dila_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
   floss_policy:
   - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
   service_of:
@@ -448,6 +452,7 @@ https://github.com/codegouvfr:
   - Ministère de la transformation et de la fonction publiques
 
 https://github.com/etalab:
+  annuaire_dila_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
   floss_policy:
   - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
   service_of:

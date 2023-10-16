@@ -995,12 +995,6 @@ https://github.com/banquedefrance:
   service_of:
   - Banque de France
 
-https://github.com/caml-pkcs11:
-  service_of:
-  - Agence nationale de la sécurité des systèmes d'information
-  - Secrétariat général de la Défense et de la Sécurité nationale
-  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-
 https://github.com/clipos-archive:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
@@ -1111,12 +1105,6 @@ https://github.com/gouvernementfr:
   - Direction interministérielle du numérique
   - Services du Premier Ministre
 
-https://github.com/landlock-lsm:
-  service_of:
-  - Agence nationale de la sécurité des systèmes d'information
-  - Secrétariat général de la Défense et de la Sécurité nationale
-  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-
 https://github.com/leximpact:
   service_of:
   - Assemblée Nationale
@@ -1149,12 +1137,6 @@ https://github.com/observatoire-territoires:
   service_of:
   - Agence nationale de la cohésion des territoires
   - Ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales
-
-https://github.com/opencti-platform:
-  service_of:
-  - Agence nationale de la sécurité des systèmes d'information
-  - Secrétariat général de la Défense et de la Sécurité nationale
-  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/orleans-metropole:
   service_of:
@@ -1194,12 +1176,6 @@ https://github.com/spyrales:
   - Direction interministérielle du numérique
   - Services du Premier Ministre
   - Ministère de la transformation et de la fonction publiques
-
-https://github.com/stemjail:
-  service_of:
-  - Agence nationale de la sécurité des systèmes d'information
-  - Secrétariat général de la Défense et de la Sécurité nationale
-  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/wookey-project:
   service_of:

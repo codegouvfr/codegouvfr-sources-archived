@@ -898,6 +898,7 @@ https://github.com/ANSSI-FR:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
+  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/ARCEP-dev:
   service_of:
@@ -998,16 +999,19 @@ https://github.com/caml-pkcs11:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
+  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/clipos-archive:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
+  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/clipos:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
+  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/cnigfr:
   service_of:
@@ -1040,6 +1044,7 @@ https://github.com/cw-leia:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
+  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/datagir:
   service_of:
@@ -1054,6 +1059,7 @@ https://github.com/dfir-orc:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
+  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/dgac:
   service_of:
@@ -1109,6 +1115,7 @@ https://github.com/landlock-lsm:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
+  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/leximpact:
   service_of:
@@ -1147,6 +1154,7 @@ https://github.com/opencti-platform:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
+  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/orleans-metropole:
   service_of:
@@ -1191,11 +1199,13 @@ https://github.com/stemjail:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
+  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/wookey-project:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
+  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://gitlab.adullact.net/departements-notaires:
   service_of:
@@ -1690,6 +1700,7 @@ https://github.com/rusticata:
   service_of:
   - Agence nationale de la sécurité des systèmes d'information
   - Secrétariat général de la Défense et de la Sécurité nationale
+  annuaire_dila_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
 
 https://github.com/cosae-fr:
   service_of:

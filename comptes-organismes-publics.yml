@@ -1696,6 +1696,10 @@ https://github.com/spike-project:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
+https://code.culture.fr:
+  service_of:
+  - Ministère de la Culture
+
 https://github.com/GeotrekCE:
   service_of:
 

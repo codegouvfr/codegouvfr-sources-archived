@@ -833,10 +833,6 @@ https://gitlab.u-psud.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
-https://gitlab-forge.din.developpement-durable.gouv.fr:
-  service_of:
-  - Ministère de la Transition écologique
-
 https://gitub.u-bordeaux.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
@@ -1739,7 +1735,4 @@ https://git.opendatafrance.net:
   service_of:
 
 https://gitlab.adullact.net/soluris:
-  service_of:
-
-https://github.com/AccessiDys:
   service_of:

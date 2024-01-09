@@ -47,5 +47,5 @@ pourrez publier vos contribution directement sur la branch `main`.
 
 Le contenu de ce dépôt est sous [licence Ouverte 2.0](LICENSE.md).
 
-2018-2023 DINUM.
+2018-2024 DINUM.
 

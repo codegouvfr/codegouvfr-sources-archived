@@ -1718,6 +1718,10 @@ https://github.com/cloud-pi-native:
   service_of:
   - Ministère de l'Intérieur
 
+https://forge.apps.education.fr/drane-ile-de-france:
+  service_of:
+  - Ministère de l'Éducation nationale, de la Jeunesse et des Sports
+
 https://github.com/publicodes:
   service_of:
 

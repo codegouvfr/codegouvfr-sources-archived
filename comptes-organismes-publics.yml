@@ -442,6 +442,14 @@ https://github.com/etalab-ia:
   - Services du Premier Ministre
   - Ministère de la transformation et de la fonction publiques
 
+https://github.com/datagouv:
+  floss_policy:
+  - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+  service_of:
+  - Direction interministérielle du numérique
+  - Services du Premier Ministre
+  - Ministère de la transformation et de la fonction publiques
+
 https://gitlab.com/etalab-datalab:
   floss_policy:
   - https://www.etalab.gouv.fr/accompagnement-logiciels-libres

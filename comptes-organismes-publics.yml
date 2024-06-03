@@ -47,18 +47,6 @@ https://dci-gitlab.cines.fr/dad:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
-https://git.unicaen.fr/crisco-des-public:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-
-https://git.unicaen.fr/open-source:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-
-https://git.unicaen.fr/pdn-certic:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-
 https://github.com/139bercy:
   service_of:
   - Ministère de l'Économie, des Finances et de la Relance
@@ -808,10 +796,6 @@ https://gitlab.inria.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
-https://gitlab.irstea.fr:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-
 https://gitlab.math.unistra.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
@@ -842,6 +826,14 @@ https://github.com/IPGP:
   - Ministère de l'enseignement supérieur et de la recherche
 
 https://github.com/grame-cncm:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://git.unicaen.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+
+https://gitlab.irstea.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
 
@@ -1271,11 +1263,7 @@ https://gitlabjf.ccomptes.fr:
   service_of:
   - Cour des Comptes
 
-https://git.leximpact.dev/leximpact:
-  service_of:
-  - Ministère de la Justice
-
-https://git.leximpact.dev/openfisca:
+https://git.leximpact.dev:
   service_of:
   - Ministère de la Justice
 

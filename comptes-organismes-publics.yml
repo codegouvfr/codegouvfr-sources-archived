@@ -2481,6 +2481,66 @@ https://github.com/GeotrekCE:
   - 6ce0a39f-65e0-41df-b2ce-b6946a62d47f
   - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
+https://gitlab.limos.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+  pso_id:
+  - 4ca60afd-3886-434c-80bb-f6bc55581323
+
+https://gitlab.oca.eu:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+  pso_id:
+  - 4ca60afd-3886-434c-80bb-f6bc55581323
+
+https://gitlab.esrf.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+  pso_id:
+  - 4ca60afd-3886-434c-80bb-f6bc55581323
+
+https://gitlab.univ-eiffel.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+  pso_id:
+  - 4ca60afd-3886-434c-80bb-f6bc55581323
+
+https://gitlab.emi.u-bordeaux.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+  pso_id:
+  - 4ca60afd-3886-434c-80bb-f6bc55581323
+
+https://gitlab.unistra.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+  pso_id:
+  - 4ca60afd-3886-434c-80bb-f6bc55581323
+
+https://gitlab.irit.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+  pso_id:
+  - 4ca60afd-3886-434c-80bb-f6bc55581323
+
+https://git.univ-pau.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+  pso_id:
+  - 4ca60afd-3886-434c-80bb-f6bc55581323
+
+https://forge.icube.unistra.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+  pso_id:
+  - 4ca60afd-3886-434c-80bb-f6bc55581323
+
+https://gitlab.iscpif.fr:
+  service_of:
+  - Ministère de l'enseignement supérieur et de la recherche
+  pso_id:
+  - 4ca60afd-3886-434c-80bb-f6bc55581323
+
 https://github.com/publicodes:
 
 https://github.com/sipf:

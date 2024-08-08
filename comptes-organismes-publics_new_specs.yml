@@ -1,39 +1,63 @@
 
 gitlab.orfeo-toolbox.org:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab-research.centralesupelec.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gricad-gitlab.univ-grenoble-alpes.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.cerema.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.inha.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.u-psud.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 git.unilim.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 git.lacl.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.pasteur.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.math.univ-paris-diderot.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.cristal.univ-lille.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab-fil.univ-lille.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.com:
   general_purpose: true
@@ -118,66 +142,133 @@ gitlab.com:
 
 gitub.u-bordeaux.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.lip6.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.factory.social.gouv.fr:
   forge: gitlab
+  pso: Ministère des Solidarités et de la Santé
+  pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
 gitlab.telecom-paris.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.in2p3.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.pmcs2i.ec-lyon.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.dsi.universite-paris-saclay.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 git.lias-lab.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.mim-libre.fr:
   forge: gitlab
+  pso: Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
+  pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+
+gitlab.esrf.fr:
+  forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+
+gitlab.oca.eu:
+  forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.synchrotron-soleil.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+
+gitlab.limos.fr:
+  forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 git-xen.lmgc.univ-montp2.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 dev.ch-poitiers.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.sevre-nantaise.com:
   forge: gitlab
+  pso: Fonction publique territoriale
+  pso_id: 00000000-0000-0000-0000-000000000000
 
 code.culture.fr:
   forge: gitlab
+  pso: Ministère de la Culture
+  pso_id: da1d6275-6710-485d-a249-282cac69dfe7
 
 dci-gitlab.cines.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.ofb.fr:
   forge: gitlab
+  pso: Office français de la biodiversité
+  pso_id: e308ae1b-6b17-4428-a0bb-b43e7c951014
 
 gitlab.cirad.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.univ-nantes.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+
+gitlab.univ-eiffel.fr:
+  forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 forge.grandlyon.com:
   forge: gitlab
+  pso: Lyon Métropole
+  pso_id: 00000000-0000-0000-0000-000000000000
+
+gitlab.unistra.fr:
+  forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 forge.ins2i.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab-forge.din.developpement-durable.gouv.fr:
   forge: gitlab
+  pso: Ministère de la Transition écologique
+  pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 sr.ht:
   general_purpose: true
@@ -211,63 +302,116 @@ framagit.org:
 
 gitlabjf.ccomptes.fr:
   forge: gitlab
+  pso: Cour des Comptes
+  pso_id: 6d3b7be4-3b13-45da-9836-4766e37bc569
 
 gitlab.inria.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 plmlab.math.cnrs.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.villejuif.fr:
   forge: gitlab
+  pso: Mairie de Villejuif
+  pso_id: 00000000-0000-0000-0000-000000000000
 
 gitlabev.imtbs-tsp.eu:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 forge.aeif.fr:
   forge: gitlab
+  pso: Ministère de l'Éducation nationale, de la Jeunesse et des Sports
+  pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+
+gitlab.emi.u-bordeaux.fr:
+  forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.utc.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.fresnel.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.math.unistra.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.huma-num.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.xlim.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 code.peren.fr:
   forge: gitlab
+  pso: SCN interministériel
+  pso_id: 9f659a3a-5d44-4a9c-a626-bed586699884
+
+gitlab.iscpif.fr:
+  forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.irstea.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 git.ias.u-psud.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.softwareheritage.org:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 forgemia.inra.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 forge.ird.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.ccsd.cnrs.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+
+git.univ-pau.fr:
+  forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 git.opendatafrance.net:
   forge: gitlab
 
 gitlab.mobilites-m.fr:
   forge: gitlab
+  pso: Syndicat Mixte des Mobilités de l'Aire Grenobloise
+  pso_id: 00000000-0000-0000-0000-000000000000
 
 gitlab.adullact.net:
   general_purpose: true
@@ -308,50 +452,85 @@ gitlab.adullact.net:
       pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
     soluris:
 
+gitlab.irit.fr:
+  forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+
 icube-forge.unistra.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.has-sante.fr:
   forge: gitlab
+  pso: Ministère des Solidarités et de la Santé
+  pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
 gitlab.mbb.cnrs.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.mbb.univ-montp2.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gite.lirmm.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 cameleon.univ-lyon1.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 depot.lipn.univ-paris13.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 forge.apps.education.fr:
   forge: gitlab
+  pso: Ministère de l'Éducation nationale, de la Jeunesse et des Sports
+  pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
 
 romeogit.univ-reims.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 src.koda.dsi.cnrs.fr:
   forge: gitlab
+  pso: Centre national de la recherche scientifique
+  pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
 
 git.beta.pole-emploi.fr:
   forge: gitlab
+  pso: Ministère du Travail, de l'Emploi et de l'Insertion
+  pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
 
 edu-git.ac-versailles.fr:
   forge: gitlab
+  pso: Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
+  pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
 
 src.koda.cnrs.fr:
   forge: gitlab
+  pso: Centre national de la recherche scientifique
+  pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
 
 gitlab.lam.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 git.leximpact.dev:
   forge: gitlab
+  pso: Ministère de la Justice
+  pso_id: 7bc12104-b232-46a6-a6d7-85bcf2dfccf1
 
 github.com:
   general_purpose: true
@@ -1145,21 +1324,38 @@ github.com:
 
 git.ademe.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.univ-lr.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.maisondelasimulation.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+
+forge.icube.unistra.fr:
+  forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.obspm.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.labocleo.org:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 lab.unif.app:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.ow2.org:
   general_purpose: true
@@ -1174,9 +1370,15 @@ gitlab.ow2.org:
 
 git.unicaen.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 forge.univ-lyon1.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 gitlab.univ-lille.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323

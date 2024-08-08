@@ -63,7 +63,7 @@ https://framagit.org/synalp:
   pso_id:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
-https://dci-gitlab.cines.fr/dad:
+https://dci-gitlab.cines.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -689,6 +689,7 @@ https://github.com/fabnumdef:
   floss_policy:
   - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
   service_of:
+  - Ministère des Armées
   pso_id:
   - d24d1af2-c506-4b10-82e8-ab92b8e959d2
 
@@ -1036,6 +1037,7 @@ https://gitlab.com/fabnum-minarm:
   floss_policy:
   - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
   service_of:
+  - Ministère des Armées
   pso_id:
   - d24d1af2-c506-4b10-82e8-ab92b8e959d2
 
@@ -1073,73 +1075,7 @@ https://gitlab.huma-num.fr:
   pso_id:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
-https://gitlab.in2p3.fr/Enssib:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.inria.fr/belenios:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.inria.fr/cedar:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.inria.fr/coquelicot:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.inria.fr/dsi_public:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.inria.fr/guix-hpc:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.inria.fr/openvibe:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.inria.fr/stopcovid19:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.inria.fr/verifisc:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.inria.fr/vidjil:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.inria.fr/openalea:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.inria.fr/why3:
+https://gitlab.in2p3.fr:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -1595,12 +1531,6 @@ https://github.com/georchestra:
   - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/plasmabio:
-  service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-  - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://gitlab.in2p3.fr/lpnhe:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -2503,7 +2433,7 @@ https://github.com/cloud-pi-native:
   pso_id:
   - fa33b07a-3f71-46d4-b682-569c9faf211e
 
-https://forge.apps.education.fr/drane-ile-de-france:
+https://forge.apps.education.fr:
   service_of:
   - Ministère de l'Éducation nationale, de la Jeunesse et des Sports
   pso_id:

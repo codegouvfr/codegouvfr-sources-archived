@@ -11,7 +11,7 @@
 
 (defn spt! [s] (spit "output.yml" s :append true))
 
-(def non-purpose-forges
+(def general-purpose-forges
   '("github.com" "gitlab.com" "sr.ht" "framagit.org" "gitlab.adullact.net" "gitlab.ow2.org"))
 
 (defn write-props! [forge & without-groups?]
@@ -34,14 +34,21 @@
   ;; For each forge, spit its domain name:
   (spt! (str "\n" (first forge) ":\n"))
   ;; For each general purpose forge, list groups as such:
-  (if-let [n (re-find (re-pattern (str/join "|" non-purpose-forges)) (first forge))]
+  (if-let [n (re-find (re-pattern (str/join "|" general-purpose-forges)) (first forge))]
+    ;; Handle non general purpose forges:
     (do (spt! "  general_purpose: true\n")
         (spt! (str "  forge: " (condp = n
                                  "github.com" "github"
                                  "sr.ht"      "sourcehut"
-                                 "gitlab") "\n"))
+                                 ;; If forge is set, get it, otherwise assume GitLab
+                                 (when-let [[_ properties] (second forge)]
+                                   (let [forge (or (get properties "forge") "gitlab")]
+                                     forge)))
+                   "\n"))
         (spt! "  groups:\n")
         (write-props! forge))
     ;; Assume other non general_purpose forges are GitLab for now
-    (do (spt! "  forge: gitlab\n")
+    (do (when-let [[_ properties] (first (second forge))]
+          (let [forge (or (get properties "forge") "gitlab")]
+            (spt! (str "  forge: " forge "\n"))))
         (write-props! forge true))))

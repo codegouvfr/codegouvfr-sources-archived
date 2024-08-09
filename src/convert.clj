@@ -20,6 +20,9 @@
       (when-let [g (last (re-find re group))]
         (when-not without-groups? (spt! (str "    " g ":\n")))
         (let [indent (if without-groups? "  " "      ")]
+          (when-let [d (get properties "ignore")]
+            (spt! (str indent "ignore: "
+                       (.format (java.text.SimpleDateFormat. "yyyy-dd-MM") d) "\n")))
           (when-let [pso (first (get properties "service_of"))]
             (spt! (str indent "pso: " pso "\n")))
           (when-let [pso_id (first (get properties "pso_id"))]

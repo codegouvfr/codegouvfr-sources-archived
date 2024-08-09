@@ -26,19 +26,19 @@ gitlab.inha.fr:
 
 gitlab.u-psud.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Ministère de l'enseignement supérieur et de la recherche
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 git.unilim.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Ministère de l'enseignement supérieur et de la recherche
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 git.lacl.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Ministère de l'enseignement supérieur et de la recherche
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
@@ -54,7 +54,7 @@ gitlab.math.univ-paris-diderot.fr:
 
 gitlab.cristal.univ-lille.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Ministère de l'enseignement supérieur et de la recherche
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
@@ -156,7 +156,7 @@ gitlab.lip6.fr:
 
 gitlab.factory.social.gouv.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Ministère des Solidarités et de la Santé
   pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
@@ -182,7 +182,7 @@ gitlab.dsi.universite-paris-saclay.fr:
 
 git.lias-lab.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Ministère de l'enseignement supérieur et de la recherche
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
@@ -223,13 +223,13 @@ dev.ch-poitiers.fr:
 
 gitlab.sevre-nantaise.com:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Fonction publique territoriale
   pso_id: 00000000-0000-0000-0000-000000000000
 
 code.culture.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Ministère de la Culture
   pso_id: da1d6275-6710-485d-a249-282cac69dfe7
 
@@ -240,7 +240,7 @@ dci-gitlab.cines.fr:
 
 gitlab.ofb.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Office français de la biodiversité
   pso_id: e308ae1b-6b17-4428-a0bb-b43e7c951014
 
@@ -271,7 +271,7 @@ gitlab.unistra.fr:
 
 forge.ins2i.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Ministère de l'enseignement supérieur et de la recherche
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
@@ -312,7 +312,7 @@ framagit.org:
 
 gitlabjf.ccomptes.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Cour des Comptes
   pso_id: 6d3b7be4-3b13-45da-9836-4766e37bc569
 
@@ -358,7 +358,7 @@ gitlab.fresnel.fr:
 
 gitlab.math.unistra.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Ministère de l'enseignement supérieur et de la recherche
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
@@ -419,7 +419,7 @@ git.univ-pau.fr:
 
 git.opendatafrance.net:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
 
 gitlab.mobilites-m.fr:
   forge: gitlab
@@ -472,7 +472,7 @@ gitlab.irit.fr:
 
 icube-forge.unistra.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Ministère de l'enseignement supérieur et de la recherche
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
@@ -518,7 +518,7 @@ romeogit.univ-reims.fr:
 
 src.koda.dsi.cnrs.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Centre national de la recherche scientifique
   pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
 
@@ -1385,7 +1385,7 @@ gitlab.ow2.org:
 
 git.unicaen.fr:
   forge: gitlab
-  ignored_since: 2024-09-08
+  ignored_since: 2024-08-09
   pso: Ministère de l'enseignement supérieur et de la recherche
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 

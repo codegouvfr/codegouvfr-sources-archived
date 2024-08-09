@@ -1,4 +1,5 @@
 https://git.lias-lab.fr:
+  ignore: 2024-08-09
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -218,6 +219,7 @@ https://github.com/IGNF:
   - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://gitlab.ofb.fr:
+  ignore: 2024-08-09
   service_of:
   - Office français de la biodiversité
   - Ministère de la Transition écologique
@@ -1088,6 +1090,7 @@ https://gitlab.inria.fr:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://gitlab.math.unistra.fr:
+  ignore: 2024-08-09
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -1137,6 +1140,7 @@ https://github.com/grame-cncm:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://git.unicaen.fr:
+  ignore: 2024-08-09
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -1149,6 +1153,7 @@ https://gitlab.irstea.fr:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://gitlab.u-psud.fr:
+  ignore: 2024-08-09
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -1755,6 +1760,7 @@ https://gitlab.com/rdes_dreal:
   - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://gitlab.factory.social.gouv.fr:
+  ignore: 2024-08-09
   service_of:
   - Ministère des Solidarités et de la Santé
   pso_id:
@@ -1768,6 +1774,7 @@ https://gitlab.mobilites-m.fr:
   - 00000000-0000-0000-0000-000000000000
 
 https://gitlabjf.ccomptes.fr:
+  ignore: 2024-08-09
   service_of:
   - Cour des Comptes
   pso_id:
@@ -1821,6 +1828,7 @@ https://src.koda.cnrs.fr:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://src.koda.dsi.cnrs.fr:
+  ignore: 2024-08-09
   service_of:
   - Centre national de la recherche scientifique
   - Ministère de l'enseignement supérieur et de la recherche
@@ -2009,6 +2017,7 @@ https://github.com/GreycLab:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://forge.ins2i.fr:
+  ignore: 2024-08-09
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -2033,6 +2042,7 @@ https://gitlab.univ-lille.fr:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://gitlab.cristal.univ-lille.fr:
+  ignore: 2024-08-09
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -2063,6 +2073,7 @@ https://github.com/dnum-sante-ars-data:
   - 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
 https://gitlab.sevre-nantaise.com:
+  ignore: 2024-08-09
   service_of:
   - Fonction publique territoriale
   pso_id:
@@ -2087,6 +2098,7 @@ https://gitlab.labocleo.org:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://git.unilim.fr:
+  ignore: 2024-08-09
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -2292,6 +2304,7 @@ https://cameleon.univ-lyon1.fr:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://git.lacl.fr:
+  ignore: 2024-08-09
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -2334,6 +2347,7 @@ https://gitlab.synchrotron-soleil.fr:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://icube-forge.unistra.fr:
+  ignore: 2024-08-09
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -2400,6 +2414,7 @@ https://github.com/spike-project:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://code.culture.fr:
+  ignore: 2024-08-09
   service_of:
   - Ministère de la Culture
   pso_id:
@@ -2556,5 +2571,6 @@ https://gitlab.com/opendatafrance:
 https://gitlab.com/validata-table:
 
 https://git.opendatafrance.net:
+  ignore: 2024-08-09
 
 https://gitlab.adullact.net/soluris:

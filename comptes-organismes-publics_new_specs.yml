@@ -160,6 +160,9 @@ gitlab.factory.social.gouv.fr:
   pso: Ministère des Solidarités et de la Santé
   pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
+gogs.univ-littoral.fr:
+  forge: gogs
+
 gitlab.telecom-paris.fr:
   forge: gitlab
   pso: Ministère de l'enseignement supérieur et de la recherche
@@ -208,6 +211,7 @@ gitlab.synchrotron-soleil.fr:
 
 gitlab.limos.fr:
   forge: gitlab
+  ignored_since: 2024-08-09
   pso: Ministère de l'enseignement supérieur et de la recherche
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 

@@ -2497,6 +2497,7 @@ https://github.com/GeotrekCE:
   - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://gitlab.limos.fr:
+  ignored_since: 2024-08-09
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
@@ -2574,3 +2575,6 @@ https://git.opendatafrance.net:
   ignored_since: 2024-08-09
 
 https://gitlab.adullact.net/soluris:
+
+https://gogs.univ-littoral.fr:
+  forge: gogs

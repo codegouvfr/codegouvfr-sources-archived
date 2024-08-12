@@ -861,6 +861,14 @@ https://github.com/numerique-gouv:
   - d1a97841-b4bf-46df-a089-1003e4e266b4
   - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
+https://github.com/dinsic-gouv:
+  service_of:
+  - Direction interministérielle du numérique
+  - Ministère de la transformation et de la fonction publiques
+  pso_id:
+  - d1a97841-b4bf-46df-a089-1003e4e266b4
+  - 9f101ac7-9a0e-4d62-8b27-8109876dff94
+
 https://github.com/ocaml:
   service_of:
   - Institut national de recherche en informatique et en automatique

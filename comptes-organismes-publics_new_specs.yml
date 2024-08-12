@@ -916,6 +916,9 @@ github.com:
     numerique-gouv:
       pso: Direction interministérielle du numérique
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+    dinsic-gouv:
+      pso: Direction interministérielle du numérique
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
     ocaml:
       pso: Institut national de recherche en informatique et en automatique
       pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac

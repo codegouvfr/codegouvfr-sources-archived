@@ -68,8 +68,8 @@ gitlab.com:
   forge: gitlab
   groups:
     etalab-datalab:
-      pso: Direction interministérielle du numérique
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      pso: Département Etalab
+      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
       floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
     incubateur-territoires:
       pso: Agence nationale de la cohésion des territoires
@@ -142,7 +142,11 @@ gitlab.com:
       pso: Ministère de la Transition écologique
       pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
     opendatafrance:
+      pso: Mission d’intérêt général
+      pso_id: 00000000-0000-0000-0000-000000000000
     validata-table:
+      pso: Mission d’intérêt général
+      pso_id: 00000000-0000-0000-0000-000000000000
 
 gitub.u-bordeaux.fr:
   forge: gitlab
@@ -162,6 +166,8 @@ gitlab.factory.social.gouv.fr:
 
 gogs.univ-littoral.fr:
   forge: gogs
+  pso: Université du Littoral Côte d'Opale (ULCO) - Dunkerque
+  pso_id: 68d07cbb-9bb3-4b8a-bda9-29f9328e362a
 
 gitlab.telecom-paris.fr:
   forge: gitlab
@@ -298,8 +304,8 @@ framagit.org:
   forge: gitlab
   groups:
     etalab:
-      pso: Direction interministérielle du numérique
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      pso: Département Etalab
+      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
       floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
     parcoursup:
       pso: Ministère de l'enseignement supérieur et de la recherche
@@ -424,6 +430,8 @@ git.univ-pau.fr:
 git.opendatafrance.net:
   forge: gitlab
   ignored_since: 2024-08-09
+  pso: Mission d’intérêt général
+  pso_id: 00000000-0000-0000-0000-000000000000
 
 gitlab.mobilites-m.fr:
   forge: gitlab
@@ -468,6 +476,8 @@ gitlab.adullact.net:
       pso: Ministère des Solidarités et de la Santé
       pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
     soluris:
+      pso: Mission d’intérêt général
+      pso_id: 00000000-0000-0000-0000-000000000000
 
 gitlab.irit.fr:
   forge: gitlab
@@ -760,8 +770,8 @@ github.com:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     betagouv:
-      pso: Direction interministérielle du numérique
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      pso: Département Incubateur des services numériques
+      pso_id: c21fa08e-f09e-4312-a6d8-400e812454c4
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     cea-hpc:
       pso: Ministère de l'enseignement supérieur et de la recherche
@@ -810,15 +820,15 @@ github.com:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     entrepreneur-interet-general:
-      pso: Direction interministérielle du numérique
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      pso: Département Etalab
+      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
       floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
     eole:
       pso: Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
       pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
     etalab-ia:
-      pso: Direction interministérielle du numérique
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      pso: Département Etalab
+      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
       floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
     datagouv:
       pso: Direction interministérielle du numérique
@@ -829,8 +839,8 @@ github.com:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       floss_policy: https://code.gouv.fr/fr/mission/#politique-logiciels-libres
     etalab:
-      pso: Direction interministérielle du numérique
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      pso: Département Etalab
+      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
       floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
     ezpaarse-project:
       pso: Ministère de l'enseignement supérieur et de la recherche
@@ -914,8 +924,8 @@ github.com:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     numerique-gouv:
-      pso: Direction interministérielle du numérique
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      pso: Département Opérateur des produits interministériels
+      pso_id: e5299ba4-7aa4-4f95-aa82-7e765d5648fe
     dinsic-gouv:
       pso: Direction interministérielle du numérique
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
@@ -923,8 +933,8 @@ github.com:
       pso: Institut national de recherche en informatique et en automatique
       pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
     opendatateam:
-      pso: Direction interministérielle du numérique
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      pso: Département Etalab
+      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
       floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
     openfun:
       pso: Ministère de l'enseignement supérieur et de la recherche
@@ -1339,10 +1349,20 @@ github.com:
       pso: Parc national des Écrins
       pso_id: 6ce0a39f-65e0-41df-b2ce-b6946a62d47f
     publicodes:
+      pso: Département Incubateur des services numériques
+      pso_id: c21fa08e-f09e-4312-a6d8-400e812454c4
     sipf:
+      pso: Service Informatique de Polynésie française
+      pso_id: fefaa887-34d0-4031-806f-6c94fb01e527
     openfisca:
+      pso: Département Incubateur des services numériques
+      pso_id: c21fa08e-f09e-4312-a6d8-400e812454c4
     interpretable:
+      pso: Métropole de Lyon - Rhône
+      pso_id: 9978f4d2-62b4-4e4d-b1fe-352b9990904a
     France-Data-Reseau:
+      pso: Mission d’intérêt général
+      pso_id: 00000000-0000-0000-0000-000000000000
 
 git.ademe.fr:
   forge: gitlab

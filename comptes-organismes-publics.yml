@@ -2605,9 +2605,9 @@ https://github.com/France-Data-Reseau:
 
 https://gitlab.com/validata-table:
   service_of:
-  - Département Etalab
+  - Mission d’intérêt général
   pso_id:
-  - db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
+  - 00000000-0000-0000-0000-000000000000
 
 https://git.opendatafrance.net:
   ignored_since: 2024-08-09

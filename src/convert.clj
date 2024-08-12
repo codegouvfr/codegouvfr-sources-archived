@@ -1,7 +1,10 @@
 #!/usr/bin/env bb
 
+;; Set the spec file name
+(def spec-filename "comptes-organismes-publics_new_specs.yml")
+
 ;; Remove output file if left over
-(fs/delete-if-exists "output.yml")
+(fs/delete-if-exists spec-filename)
 
 ;; Get all forges by domain names
 (def orgs
@@ -9,7 +12,7 @@
    (yaml/parse-string (slurp "comptes-organismes-publics.yml") :keywords false)
    (group-by #(last (re-find #"https://([^/]+)" (first %))))))
 
-(defn spt! [s] (spit "output.yml" s :append true))
+(defn spt! [s] (spit "comptes-organismes-publics_new_specs.yml" s :append true))
 
 (def general-purpose-forges
   '("github.com" "gitlab.com" "sr.ht" "framagit.org" "gitlab.adullact.net" "gitlab.ow2.org"))

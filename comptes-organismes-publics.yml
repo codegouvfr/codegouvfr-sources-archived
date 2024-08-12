@@ -867,9 +867,11 @@ https://github.com/neuroanatomy:
 
 https://github.com/numerique-gouv:
   service_of:
+  - Département Opérateur des produits interministériels
   - Direction interministérielle du numérique
   - Ministère de la transformation et de la fonction publiques
   pso_id:
+  - e5299ba4-7aa4-4f95-aa82-7e765d5648fe
   - d1a97841-b4bf-46df-a089-1003e4e266b4
   - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 

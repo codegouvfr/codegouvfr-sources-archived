@@ -72,8 +72,8 @@ gitlab.com:
       pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
       floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
     incubateur-territoires:
-      pso: Agence nationale de la cohésion des territoires
-      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
+      pso: Mission Incubateur de services numériques
+      pso_id: 05255578-88b7-47e6-aff3-907d69c1a7a6
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     BDNB:
       pso: Centre scientifique et technique du bâtiment
@@ -192,11 +192,13 @@ gitlab.dsi.universite-paris-saclay.fr:
 git.lias-lab.fr:
   forge: gitlab
   ignored_since: 2024-08-09
-  pso: Ministère de l'enseignement supérieur et de la recherche
-  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+  pso: Université de Poitiers
+  pso_id: d886e04e-b4ad-4f72-8a74-41969fc5fe31
 
 gitlab.mim-libre.fr:
   forge: gitlab
+  pso: Ministère de l'enseignement supérieur et de la recherche
+  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
   pso: Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
   pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
 
@@ -229,7 +231,7 @@ git-xen.lmgc.univ-montp2.fr:
 dev.ch-poitiers.fr:
   forge: gitlab
   pso: Ministère de l'enseignement supérieur et de la recherche
-  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+  pso_id: d886e04e-b4ad-4f72-8a74-41969fc5fe31
 
 gitlab.sevre-nantaise.com:
   forge: gitlab
@@ -245,8 +247,8 @@ code.culture.fr:
 
 dci-gitlab.cines.fr:
   forge: gitlab
-  pso: Ministère de l'enseignement supérieur et de la recherche
-  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+  pso: Centre informatique national de l'enseignement supérieur (CINES)
+  pso_id: 1c3cc6b2-0a7f-44d1-a989-6a98fe9ca344
 
 gitlab.ofb.fr:
   forge: gitlab
@@ -307,12 +309,9 @@ framagit.org:
       pso: Département Etalab
       pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
       floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
-    parcoursup:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     synalp:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: CNRS - Délégation Centre-Est
+      pso_id: e5f85488-21e6-40d5-ae47-7f654dbbfde0
     datatourisme:
       pso: Direction Générale des Entreprises
       pso_id: c29540a1-a126-434d-a6dc-a0236eefeec6
@@ -409,8 +408,8 @@ gitlab.softwareheritage.org:
 
 forgemia.inra.fr:
   forge: gitlab
-  pso: Ministère de l'enseignement supérieur et de la recherche
-  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+  pso: Centres de recherche régionaux de l'INRAE
+  pso_id: 813619f3-e232-4fbf-a54d-150f6385a95f
 
 forge.ird.fr:
   forge: gitlab
@@ -463,7 +462,7 @@ gitlab.adullact.net:
     larochelle:
       pso: Mairie de La Rochelle
       pso_id: 00000000-0000-0000-0000-000000000000
-    linc1/:
+    linc1:
       pso: Commission nationale de l'informatique et des libertés
       pso_id: 785c85d5-8400-4545-9a0b-9fa47b23ef6e
     dge:
@@ -543,8 +542,8 @@ git.beta.pole-emploi.fr:
 
 edu-git.ac-versailles.fr:
   forge: gitlab
-  pso: Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
-  pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+  pso: Rectorat - Académie de Versailles
+  pso_id: 385670ae-9737-442e-810e-5a7a40a4e7d5
 
 src.koda.cnrs.fr:
   forge: gitlab
@@ -566,41 +565,41 @@ github.com:
   forge: github
   groups:
     lias-laboratory:
-      pso: Ministère de l'enseignement supérieur et de la recherche
+      pso: Université de Poitiers
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     139bercy:
       pso: Ministère de l'Économie, des Finances et de la Relance
       pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
     AC-Rennes-OpenSource:
-      pso: Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
-      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+      pso: Rectorat - Académie de Rennes
+      pso_id: ea7a37da-ed1c-4ebe-a4d3-bbdd048f9a37
     Antique-team:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Centre de recherche INRIA - Paris
+      pso_id: 2c14601d-dbd0-418b-9b41-76512f31532e
     ApieFrance:
       pso: Mission d'appui au patrimoine immatériel de l'État
-      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
+      pso_id: 0fde41be-b9be-4878-8ee3-9f57de359447
     AssuranceMaladieSec:
-      pso: Ministère des Solidarités et de la Santé
-      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+      pso: Caisse nationale de l'assurance maladie - CNAM
+      pso_id: ff0017f1-00fd-4ac6-a423-f3cb0a99836e
     Barometre-de-la-Science-Ouverte:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     BRGM:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Bureau de recherches géologiques et minières (BRGM)
+      pso_id: e5a27582-6342-4528-9d78-ef1c629f34fa
     BibCnrs:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut de l'information scientifique et technique (Insit)
+      pso_id: 00000000-0000-0000-0000-000000000000
     CCSDForge:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Centre national de la recherche scientifique (CNRS)
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     CNRS-DSI-Dev:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Direction des systèmes d'information du CNRS
+      pso_id: ecad061b-e200-4201-a4cd-10af9aceb934
     CatalaLang:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut national de recherche en informatique et en automatique (INRIA)
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
     DGFiP:
       pso: Ministère de l'Économie, des Finances et de la Relance
       pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
@@ -608,35 +607,35 @@ github.com:
       pso: Ministère de l'Économie, des Finances et de la Relance
       pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
     DIVERSIFY-project:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Centre de recherche INRIA - Rennes - Bretagne Atlantique
+      pso_id: f340dcf7-4af7-45e5-ae96-c78868373676
     DSI-Universite-Rennes2:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Université de Rennes 2
+      pso_id: a94fe690-dd65-4e9c-9429-b13bb5236166
     Deducteam:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: École normale supérieure Paris-Saclay
+      pso_id: 74935183-7042-4ffc-a6cc-32f3421a3b26
     Delegation-numerique-en-sante:
       pso: Ministère des Solidarités et de la Santé
       pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
     EDS-APHP:
-      pso: Ministère des Solidarités et de la Santé
-      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+      pso: Direction des systèmes d'information (CHU) - Assistance publique - Hôpitaux de Paris (AP-HP)
+      pso_id: fa56f607-5e33-4f7b-b9c7-87fe315abf06
     EsupPortail:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     GHFC:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Université de Paris Cité
+      pso_id: 27b9c635-130e-447a-8551-c5d808c9f7e6
     GendarmerieNationale:
       pso: Ministère de l'Intérieur
       pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
     Geographie-cites:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Centre national de la recherche scientifique (CNRS)
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     HolAutisme:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Mission d’intérêt général
+      pso_id: 00000000-0000-0000-0000-000000000000
     IGNF:
       pso: Institut national de l'information géographique et forestière
       pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
@@ -644,55 +643,55 @@ github.com:
       pso: Institut national de l'information géographique et forestière
       pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
     INHAParis:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut national d'histoire de l'art (INHA)
+      pso_id: 7aad474e-3588-482c-bba7-f7487122722a
     INRA:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE) - Site d'Antony
+      pso_id: fbddbc4f-6422-41b6-998f-cb88504bb1cf
     INSIDE-information-systems:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Bureau de recherches géologiques et minières (BRGM)
+      pso_id: e5a27582-6342-4528-9d78-ef1c629f34fa
     Icy-imaging:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    Ifsttar:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    Universite-Gustave-Eiffel:
+      pso: Université Gustave Eiffel
+      pso_id: c03acd84-37db-4e3e-ab2d-7dd0ab4323d7
     Inist-CNRS:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: CNRS - Délégation Centre-Est
+      pso_id: e5f85488-21e6-40d5-ae47-7f654dbbfde0
     InriaMecsci:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut national de recherche en informatique et en automatique (INRIA)
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
     InterieurGouvFr:
       pso: Ministère de l'Intérieur
       pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
     Irstea:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut national de recherche pour l’agriculture, l’alimentation et l’environnement (INRAE) - Paris
+      pso_id: 599da94e-8306-4e97-ab75-15d7a59af088
     JMMC-OpenDev:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut national des sciences de l'univers (INSU)
+      pso_id: 0bd49a4f-6c84-4d66-b653-02bfc3bfa5d7
     LAB-MI:
       pso: Ministère de l'Intérieur et des Outre-mer
       pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     LETG:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Centre national de la recherche scientifique (CNRS)
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     LaboratoryOfPlasmaPhysics:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: École polytechnique
+      pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
     LemonLDAPNG:
-      pso: Ministère de l'Intérieur
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+      pso: Mission d’intérêt général
+      pso_id: 00000000-0000-0000-0000-000000000000
     MINAGRI-INITIAL:
       pso: Ministère de l'Agriculture et de la Souveraineté alimentaire
       pso_id: 45e488a2-c977-487f-b62f-19b4d6504d9c
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     MLanguage:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut national de recherche en informatique et en automatique (INRIA)
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
     MTES-MCT:
       pso: Ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales
       pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
@@ -701,96 +700,93 @@ github.com:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     OPIDoR:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Centre national de la recherche scientifique (CNRS)
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     OpenEdition:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Avignon université (AU)
+      pso_id: c25e984d-5528-4ad8-a996-a10af5c4f5a1
     OpenFLUID:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: AgroParisTech - Centre de Montpellier
+      pso_id: 63c76f67-96f2-4dcb-821f-d485e99b9bfb
     PHAREHUB:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    PrefectureDePolice:
-      pso: Ministère de l'Intérieur
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+      pso: École polytechnique
+      pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
     ProgrammeVitam:
-      pso: Ministère de la Culture
-      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
+      pso: Direction interministérielle du numérique (DINUM)
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       floss_policy: https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
     ArchivesNationalesFR:
       pso: Archives nationales
       pso_id: d60f8d14-d42e-4268-8ed6-ca712f369da6
       floss_policy: https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
     SciQLop:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Université de Toulouse
+      pso_id: 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
     SimPLU3D:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut national de l'information géographique et forestière (IGN)
+      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
     SocialGouv:
-      pso: Ministère des Solidarités et de la Santé
-      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+      pso: Mission Fabrique numérique (FabNum)
+      pso_id: 361651ec-d4af-4c9f-b76f-e5f9ca19df4b
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     Spirals-Team:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Université de Lille
+      pso_id: 2350726b-1199-48ef-8172-cd85fe151732
     StartupsPoleEmploi:
       pso: Ministère du Travail, de l'Emploi et de l'Insertion
       pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     mission-apprentissage:
-      pso: Ministère du Travail, de l'Emploi et de l'Insertion
-      pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
+      pso: Pôle animation beta.gouv.fr
+      pso_id: 125cf7e6-8138-4284-b545-fb378f25830b
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     X-DataInitiative:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: École polytechnique
+      pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
     abes-esr:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Agence bibliographique de l'enseignement supérieur (ABES)
+      pso_id: 978ee506-74dd-4634-a69e-ecbd7211d71e
       floss_policy: https://github.com/abes-esr/abes-politique-developpement
     ac-nantes-dec:
-      pso: Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
-      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+      pso: Rectorat - Académie de Nantes
+      pso_id: a80ce22b-9b00-40b8-bc4e-151bdde9d1c5
     academiePoitiers:
-      pso: Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
-      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+      pso: Rectorat - Académie de Poitiers
+      pso_id: cdc595a1-eb9b-49ef-a689-fceeebfabe0b
     ansforge:
-      pso: Ministère des Solidarités et de la Santé
-      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+      pso: Agence du numérique en santé (ANS)
+      pso_id: a0e44306-21d2-4285-bf0d-75813afaed3e
     aphp:
-      pso: Ministère des Solidarités et de la Santé
-      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+      pso: Centre hospitalier universitaire (CHU) - Assistance publique - Hôpitaux de Paris (AP-HP)
+      pso_id: bec0760f-c0b9-4c72-979f-fecf50de9320
     assurance-maladie-digital:
-      pso: Ministère des Solidarités et de la Santé
-      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+      pso: Caisse nationale de l'assurance maladie - CNAM
+      pso_id: ff0017f1-00fd-4ac6-a423-f3cb0a99836e
     atlanmod:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut Mines-Télécom - Atlantique (IMT)
+      pso_id: e712b0eb-c2b1-4c41-adf2-e40974d093a3
     betagouv:
       pso: Département Incubateur des services numériques
       pso_id: c21fa08e-f09e-4312-a6d8-400e812454c4
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     cea-hpc:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Commissariat à l'énergie atomique et aux énergies alternatives (CEA)
+      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
     cea-leti:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Commissariat à l'énergie atomique et aux énergies alternatives (CEA)
+      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
     cea-list:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Commissariat à l'énergie atomique et aux énergies alternatives (CEA)
+      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
     cea-sec:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Commissariat à l'énergie atomique et aux énergies alternatives (CEA)
+      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
     coq:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut national de recherche en informatique et en automatique (INRIA)
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
     ctools:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Université de Toulouse
+      pso_id: 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
     culturecommunication:
       pso: Ministère de la Culture
       pso_id: da1d6275-6710-485d-a249-282cac69dfe7
@@ -843,8 +839,8 @@ github.com:
       pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
       floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
     ezpaarse-project:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Centre national de la recherche scientifique (CNRS)
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     fabnumdef:
       pso: Ministère des Armées
       pso_id: d24d1af2-c506-4b10-82e8-ab92b8e959d2
@@ -853,49 +849,42 @@ github.com:
       pso: Direction interministérielle du numérique
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
     gammalib:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Université de Toulouse
+      pso_id: 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
     gemoc:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Université de Toulouse
+      pso_id: 95d0cc7d-2ee2-45a1-bdb7-7374a274cb55
     genotoul-bioinfo:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     gip-recia:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    guix-mirror:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Mission d’intérêt général
+      pso_id: 00000000-0000-0000-0000-000000000000
     histovec:
       pso: Ministère de l'Intérieur
       pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
     ia-flash:
-      pso: Ministère de l'Intérieur
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+      pso: Agence nationale de traitement automatisé des infractions (ANTAI)
+      pso_id: 4b5e336d-feca-471b-86bd-8634e79e78b0
     ifremer-bioinformatics:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut français de recherche pour l'exploitation de la mer (IFREMER)
+      pso_id: 2a7c45c1-a0fb-4130-82dd-9ced0b08424e
     imagesdesmaths:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Centre national de la recherche scientifique (CNRS)
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     ina-foss:
-      pso: Ministère de la Culture
-      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
+      pso: Institut national de l'audiovisuel (INA)
+      pso_id: 8fa935f8-8a4c-45f6-bbaa-b891895a0ece
       floss_policy: https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
-    incubateur-territoires:
-      pso: Agence nationale de la cohésion des territoires
-      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
-      floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     inrae:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut national de recherche pour l’agriculture, l’alimentation et l’environnement (INRAE) - Paris
+      pso_id: 599da94e-8306-4e97-ab75-15d7a59af088
     inria:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Institut national de recherche en informatique et en automatique (INRIA)
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
     iscpif:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Centre national de la recherche scientifique (CNRS)
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     istex:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
@@ -1324,7 +1313,7 @@ github.com:
     spike-project:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    UMR-CNRM/:
+    UMR-CNRM:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     cloud-pi-native:
@@ -1418,8 +1407,8 @@ git.unicaen.fr:
 
 forge.univ-lyon1.fr:
   forge: gitlab
-  pso: Ministère de l'enseignement supérieur et de la recherche
-  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+  pso: Université Lyon 1 - Claude Bernard
+  pso_id: 30ebd063-1d0e-4312-be68-186f876719d9
 
 gitlab.univ-lille.fr:
   forge: gitlab

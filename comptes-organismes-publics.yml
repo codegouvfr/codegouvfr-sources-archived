@@ -267,10 +267,12 @@ https://github.com/Icy-imaging:
   pso_id:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
-https://github.com/Ifsttar:
+https://github.com/Universite-Gustave-Eiffel:
   service_of:
-  - Ministère de l'enseignement supérieur et de la recherche
+  - Université Gustave Eiffel
+  - Ministère de l’enseignement supérieur et de la recherche
   pso_id:
+  - c03acd84-37db-4e3e-ab2d-7dd0ab4323d7
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/Inist-CNRS:

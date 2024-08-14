@@ -385,12 +385,6 @@ https://github.com/PHAREHUB:
   pso_id:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
-https://github.com/PrefectureDePolice:
-  service_of:
-  - Ministère de l'Intérieur
-  pso_id:
-  - fa33b07a-3f71-46d4-b682-569c9faf211e
-
 https://github.com/ProgrammeVitam:
   service_of:
   - Ministère de la Culture

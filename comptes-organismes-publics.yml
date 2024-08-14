@@ -1877,7 +1877,7 @@ https://gitlab.adullact.net/larochelle:
   pso_id:
   - 00000000-0000-0000-0000-000000000000
 
-https://gitlab.adullact.net/linc1/:
+https://gitlab.adullact.net/linc1:
   service_of:
   - Commission nationale de l'informatique et des libertés
   pso_id:
@@ -2617,7 +2617,7 @@ https://romeogit.univ-reims.fr:
   pso_id:
   - 4ca60afd-3886-434c-80bb-f6bc55581323
 
-https://github.com/UMR-CNRM/:
+https://github.com/UMR-CNRM:
   service_of:
   - Ministère de l'enseignement supérieur et de la recherche
   - Météo France

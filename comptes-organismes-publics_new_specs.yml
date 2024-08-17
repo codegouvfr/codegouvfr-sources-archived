@@ -6,8 +6,8 @@ gitlab.orfeo-toolbox.org:
 
 gitlab-research.centralesupelec.fr:
   forge: gitlab
-  pso: Ministère de l'enseignement supérieur et de la recherche
-  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+  pso: CentraleSupélec
+  pso_id: 304cc601-b932-4239-8256-d0ce5038ddb8
 
 gricad-gitlab.univ-grenoble-alpes.fr:
   forge: gitlab
@@ -16,8 +16,8 @@ gricad-gitlab.univ-grenoble-alpes.fr:
 
 gitlab.cerema.fr:
   forge: gitlab
-  pso: Ministère de l'enseignement supérieur et de la recherche
-  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+  pso: Mission de coordination (CEREMA)
+  pso_id: 6c330fd9-0406-4a5f-9e40-c801716a6a24
 
 gitlab.inha.fr:
   forge: gitlab
@@ -72,15 +72,15 @@ gitlab.com:
       pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
       floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
     incubateur-territoires:
-      pso: Mission Incubateur de services numériques
-      pso_id: 05255578-88b7-47e6-aff3-907d69c1a7a6
+      pso: Agence nationale de la cohésion des territoires
+      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     BDNB:
       pso: Centre scientifique et technique du bâtiment
       pso_id: caf96dcf-432b-488b-8b18-7aa0dca9f14e
     DREES_code:
-      pso: Ministère des Solidarités et de la Santé
-      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+      pso: Direction de la recherche, des études, de l'évaluation et des statistiques (DREES)
+      pso_id: 929f8575-51b3-4977-8dcb-147b756de677
     affelnet-lycee-group:
       pso: Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
       pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
@@ -230,8 +230,8 @@ git-xen.lmgc.univ-montp2.fr:
 
 dev.ch-poitiers.fr:
   forge: gitlab
-  pso: Ministère de l'enseignement supérieur et de la recherche
-  pso_id: d886e04e-b4ad-4f72-8a74-41969fc5fe31
+  pso: Fonction hospitalière
+  pso_id: 00000000-0000-0000-0000-000000000000
 
 gitlab.sevre-nantaise.com:
   forge: gitlab
@@ -297,8 +297,8 @@ sr.ht:
   forge: sourcehut
   groups:
     ~codegouvfr:
-      pso: Direction interministérielle du numérique
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      pso: Mission logiciels libres
+      pso_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
       floss_policy: https://code.gouv.fr/fr/mission/#politique-logiciels-libres
 
 framagit.org:
@@ -418,8 +418,8 @@ forge.ird.fr:
 
 gitlab.ccsd.cnrs.fr:
   forge: gitlab
-  pso: Ministère de l'enseignement supérieur et de la recherche
-  pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+  pso: Centre national de la recherche scientifique (CNRS)
+  pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
 
 git.univ-pau.fr:
   forge: gitlab
@@ -451,8 +451,8 @@ gitlab.adullact.net:
       pso: Ministère de l'Économie, des Finances et de la Relance
       pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
     marche-sll:
-      pso: Ministère de l'Économie, des Finances et de la Relance
-      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
+      pso: Direction générale des finances publiques (DGFIP)
+      pso_id: 80515340-0ad9-4293-9348-35d7eb005fc7
     departements-notaires:
       pso: Ministère de la Justice
       pso_id: 7bc12104-b232-46a6-a6d7-85bcf2dfccf1
@@ -566,7 +566,7 @@ github.com:
   groups:
     lias-laboratory:
       pso: Université de Poitiers
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso_id: d886e04e-b4ad-4f72-8a74-41969fc5fe31
     139bercy:
       pso: Ministère de l'Économie, des Finances et de la Relance
       pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
@@ -589,8 +589,8 @@ github.com:
       pso: Bureau de recherches géologiques et minières (BRGM)
       pso_id: e5a27582-6342-4528-9d78-ef1c629f34fa
     BibCnrs:
-      pso: Institut de l'information scientifique et technique (Insit)
-      pso_id: 00000000-0000-0000-0000-000000000000
+      pso: Centre national de la recherche scientifique (CNRS)
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     CCSDForge:
       pso: Centre national de la recherche scientifique (CNRS)
       pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
@@ -633,9 +633,6 @@ github.com:
     Geographie-cites:
       pso: Centre national de la recherche scientifique (CNRS)
       pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    HolAutisme:
-      pso: Mission d’intérêt général
-      pso_id: 00000000-0000-0000-0000-000000000000
     IGNF:
       pso: Institut national de l'information géographique et forestière
       pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
@@ -683,8 +680,8 @@ github.com:
       pso: École polytechnique
       pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
     LemonLDAPNG:
-      pso: Mission d’intérêt général
-      pso_id: 00000000-0000-0000-0000-000000000000
+      pso: Ministère de l'Intérieur
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
     MINAGRI-INITIAL:
       pso: Ministère de l'Agriculture et de la Souveraineté alimentaire
       pso_id: 45e488a2-c977-487f-b62f-19b4d6504d9c
@@ -712,8 +709,8 @@ github.com:
       pso: École polytechnique
       pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
     ProgrammeVitam:
-      pso: Direction interministérielle du numérique (DINUM)
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      pso: Ministère de la Culture
+      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
       floss_policy: https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
     ArchivesNationalesFR:
       pso: Archives nationales
@@ -737,8 +734,8 @@ github.com:
       pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     mission-apprentissage:
-      pso: Pôle animation beta.gouv.fr
-      pso_id: 125cf7e6-8138-4284-b545-fb378f25830b
+      pso: Ministère du Travail, de l'Emploi et de l'Insertion
+      pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
     X-DataInitiative:
       pso: École polytechnique
@@ -858,7 +855,7 @@ github.com:
       pso: Ministère de l'enseignement supérieur et de la recherche
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     gip-recia:
-      pso: Mission d’intérêt général
+      pso: Fonction publique territoriale
       pso_id: 00000000-0000-0000-0000-000000000000
     histovec:
       pso: Ministère de l'Intérieur
@@ -899,12 +896,12 @@ github.com:
       pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
       floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
     medialab:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Sciences-Po - Institut d'études politiques de Paris (IEP) et Fondation nationale des sciences politiques (FNSP)
+      pso_id: 5088d2a9-afa1-4d7b-98c3-d2a25ae99167
       floss_policy: https://medialab.sciencespo.fr/a-propos/#deontology
     AtelierCartographie:
-      pso: Ministère de l'enseignement supérieur et de la recherche
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      pso: Sciences-Po - Institut d'études politiques de Paris (IEP) et Fondation nationale des sciences politiques (FNSP)
+      pso_id: 5088d2a9-afa1-4d7b-98c3-d2a25ae99167
       floss_policy: https://medialab.sciencespo.fr/a-propos/#deontology
     metwork-framework:
       pso: Ministère de l'enseignement supérieur et de la recherche

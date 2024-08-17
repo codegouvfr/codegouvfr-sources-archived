@@ -2,32 +2,26 @@ https://git.lias-lab.fr:
   ignored_since: 2024-08-09
   service_of:
     - Université de Poitiers
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - d886e04e-b4ad-4f72-8a74-41969fc5fe31
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/lias-laboratory:
   service_of:
     - Université de Poitiers
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
+    - d886e04e-b4ad-4f72-8a74-41969fc5fe31
 
 https://dev.ch-poitiers.fr:
   service_of:
-    - Ministère de l'enseignement supérieur et de la recherche
+    - Fonction hospitalière
   pso_id:
-    - d886e04e-b4ad-4f72-8a74-41969fc5fe31
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
+    - 00000000-0000-0000-0000-000000000000
 
 https://edu-git.ac-versailles.fr:
   service_of:
     - Rectorat - Académie de Versailles
-    - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
   pso_id:
     - 385670ae-9737-442e-810e-5a7a40a4e7d5
-    - 3ed2f725-e077-4973-a531-498e13fc7861
 
 https://forge.grandlyon.com:
   service_of:
@@ -39,30 +33,22 @@ https://forge.grandlyon.com:
 https://forge.univ-lyon1.fr:
   service_of:
     - Université Lyon 1 - Claude Bernard
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 30ebd063-1d0e-4312-be68-186f876719d9
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://forgemia.inra.fr:
   service_of:
     - Centres de recherche régionaux de l'INRAE
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 813619f3-e232-4fbf-a54d-150f6385a95f
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://framagit.org/etalab:
   floss_policy:
     - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
   service_of:
     - Département Etalab
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://gitlab.mim-libre.fr/parcoursup:
   service_of:
@@ -73,18 +59,14 @@ https://gitlab.mim-libre.fr/parcoursup:
 https://framagit.org/synalp:
   service_of:
     - CNRS - Délégation Centre-Est
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - e5f85488-21e6-40d5-ae47-7f654dbbfde0
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://dci-gitlab.cines.fr:
   service_of:
     - Centre informatique national de l'enseignement supérieur (CINES)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 1c3cc6b2-0a7f-44d1-a989-6a98fe9ca344
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/139bercy:
   service_of:
@@ -95,36 +77,26 @@ https://github.com/139bercy:
 https://github.com/AC-Rennes-OpenSource:
   service_of:
     - Rectorat - Académie de Rennes
-    - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
   pso_id:
     - ea7a37da-ed1c-4ebe-a4d3-bbdd048f9a37
-    - 3ed2f725-e077-4973-a531-498e13fc7861
 
 https://github.com/Antique-team:
   service_of:
     - Centre de recherche INRIA - Paris
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 2c14601d-dbd0-418b-9b41-76512f31532e
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/ApieFrance:
   service_of:
     - Mission d'appui au patrimoine immatériel de l'État
-    - Direction des affaires juridiques du MEFR
-    - Ministère de l'Économie, des Finances et de la Relance
   pso_id:
     - 0fde41be-b9be-4878-8ee3-9f57de359447
-    - e597693c-ee5c-49fd-a54a-c3747c68f361
-    - c4195774-f535-4d82-b03f-d5f0c6b08635
 
 https://github.com/AssuranceMaladieSec:
   service_of:
     - Caisse nationale de l'assurance maladie - CNAM
-    - Ministère des Solidarités et de la Santé
   pso_id:
     - ff0017f1-00fd-4ac6-a423-f3cb0a99836e
-    - 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
 https://github.com/Barometre-de-la-Science-Ouverte:
   service_of:
@@ -135,48 +107,32 @@ https://github.com/Barometre-de-la-Science-Ouverte:
 https://github.com/BRGM:
   service_of:
     - Bureau de recherches géologiques et minières (BRGM)
-    - Office français de la biodiversité (OFB)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - e5a27582-6342-4528-9d78-ef1c629f34fa
-    - e308ae1b-6b17-4428-a0bb-b43e7c951014
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/BibCnrs:
   service_of:
-    - Institut de l'information scientifique et technique (Insit)
-    - Direction de l'information scientifique et technique (DIST)
     - Centre national de la recherche scientifique (CNRS)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
-    - 00000000-0000-0000-0000-000000000000
-    - 0927656e-03ee-47d2-9dd7-9e26f6e8af51
     - 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/CCSDForge:
   service_of:
     - Centre national de la recherche scientifique (CNRS)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/CNRS-DSI-Dev:
   service_of:
     - Direction des systèmes d'information du CNRS
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - ecad061b-e200-4201-a4cd-10af9aceb934
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/CatalaLang:
   service_of:
     - Institut national de recherche en informatique et en automatique (INRIA)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/DGFiP:
   service_of:
@@ -193,34 +149,20 @@ https://github.com/DGTresor:
 https://github.com/DIVERSIFY-project:
   service_of:
     - Centre de recherche INRIA - Rennes - Bretagne Atlantique
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - f340dcf7-4af7-45e5-ae96-c78868373676
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/DSI-Universite-Rennes2:
   service_of:
     - Université de Rennes 2
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - a94fe690-dd65-4e9c-9429-b13bb5236166
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/Deducteam:
   service_of:
     - École normale supérieure Paris-Saclay
-    - Université Paris Saclay - Université d'Évry
-    - CentraleSupélec
-    - Institut national de recherche en informatique et en automatique (INRIA)
-    - Centre national de la recherche scientifique (CNRS)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 74935183-7042-4ffc-a6cc-32f3421a3b26
-    - 38a9df8e-7a76-4eb4-8c42-8047e99a60e2
-    - 304cc601-b932-4239-8256-d0ce5038ddb8
-    - 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    - 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/Delegation-numerique-en-sante:
   service_of:
@@ -230,15 +172,9 @@ https://github.com/Delegation-numerique-en-sante:
 
 https://github.com/EDS-APHP:
   service_of:
-    - Direction des systèmes d'information (CHU) - Assistance publique -
-      Hôpitaux de Paris (AP-HP)
-    - Centre hospitalier universitaire (CHU) - Assistance publique - Hôpitaux de
-      Paris (AP-HP)
-    - Ministère des Solidarités et de la Santé
+    - Direction des systèmes d'information (CHU) - Assistance publique - Hôpitaux de Paris (AP-HP)
   pso_id:
     - fa56f607-5e33-4f7b-b9c7-87fe315abf06
-    - bec0760f-c0b9-4c72-979f-fecf50de9320
-    - 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
 https://github.com/EsupPortail:
   service_of:
@@ -249,10 +185,8 @@ https://github.com/EsupPortail:
 https://github.com/GHFC:
   service_of:
     - Université de Paris Cité
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 27b9c635-130e-447a-8551-c5d808c9f7e6
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/GendarmerieNationale:
   service_of:
@@ -263,35 +197,21 @@ https://github.com/GendarmerieNationale:
 https://github.com/Geographie-cites:
   service_of:
     - Centre national de la recherche scientifique (CNRS)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-https://github.com/HolAutisme:
-  service_of:
-    - Mission d’intérêt général
-    - Ministère de l'enseignement supérieur et de la recherche
-  pso_id:
-    - 00000000-0000-0000-0000-000000000000
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/IGNF:
   service_of:
     - Institut national de l'information géographique et forestière
-    - Ministère de la Transition écologique
   pso_id:
     - f610de75-2107-4543-a4e3-fd501a8b611c
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://gitlab.ofb.fr:
   ignored_since: 2024-08-09
   service_of:
     - Office français de la biodiversité
-    - Ministère de la Transition écologique
   pso_id:
     - e308ae1b-6b17-4428-a0bb-b43e7c951014
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://gitlab-forge.din.developpement-durable.gouv.fr:
   service_of:
@@ -302,73 +222,50 @@ https://gitlab-forge.din.developpement-durable.gouv.fr:
 https://github.com/iTowns:
   service_of:
     - Institut national de l'information géographique et forestière
-    - Ministère de la Transition écologique
   pso_id:
     - f610de75-2107-4543-a4e3-fd501a8b611c
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://github.com/INHAParis:
   service_of:
     - Institut national d'histoire de l'art (INHA)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 7aad474e-3588-482c-bba7-f7487122722a
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/INRA:
   service_of:
-    - Institut national de recherche pour l'agriculture, l'alimentation et
-      l'environnement (INRAE) - Site d'Antony
-    - Ministère de l'enseignement supérieur et de la recherche
+    - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE) - Site d'Antony
   pso_id:
     - fbddbc4f-6422-41b6-998f-cb88504bb1cf
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/INSIDE-information-systems:
   service_of:
     - Bureau de recherches géologiques et minières (BRGM)
-    - Office français de la biodiversité (OFB)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - e5a27582-6342-4528-9d78-ef1c629f34fa
-    - e308ae1b-6b17-4428-a0bb-b43e7c951014
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/Icy-imaging:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
-    - Mission d’intérêt général
   pso_id:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
-    - 00000000-0000-0000-0000-000000000000
 
 https://github.com/Universite-Gustave-Eiffel:
   service_of:
     - Université Gustave Eiffel
-    - Ministère de l’enseignement supérieur et de la recherche
   pso_id:
     - c03acd84-37db-4e3e-ab2d-7dd0ab4323d7
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/Inist-CNRS:
   service_of:
     - CNRS - Délégation Centre-Est
-    - Centre national de la recherche scientifique (CNRS)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - e5f85488-21e6-40d5-ae47-7f654dbbfde0
-    - 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/InriaMecsci:
   service_of:
     - Institut national de recherche en informatique et en automatique (INRIA)
-    - Mission d’intérêt général
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    - 00000000-0000-0000-0000-000000000000
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/InterieurGouvFr:
   service_of:
@@ -378,20 +275,15 @@ https://github.com/InterieurGouvFr:
 
 https://github.com/Irstea:
   service_of:
-    - Institut national de recherche pour l’agriculture, l’alimentation et
-      l’environnement (INRAE) - Paris
-    - Ministère de l'enseignement supérieur et de la recherche
+    - Institut national de recherche pour l’agriculture, l’alimentation et l’environnement (INRAE) - Paris
   pso_id:
     - 599da94e-8306-4e97-ab75-15d7a59af088
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/JMMC-OpenDev:
   service_of:
     - Institut national des sciences de l'univers (INSU)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 0bd49a4f-6c84-4d66-b653-02bfc3bfa5d7
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/LAB-MI:
   floss_policy:
@@ -404,25 +296,19 @@ https://github.com/LAB-MI:
 https://github.com/LETG:
   service_of:
     - Centre national de la recherche scientifique (CNRS)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/LaboratoryOfPlasmaPhysics:
   service_of:
     - École polytechnique
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/LemonLDAPNG:
   service_of:
-    - Mission d’intérêt général
     - Ministère de l'Intérieur
   pso_id:
-    - 00000000-0000-0000-0000-000000000000
     - fa33b07a-3f71-46d4-b682-569c9faf211e
 
 https://github.com/MINAGRI-INITIAL:
@@ -436,17 +322,14 @@ https://github.com/MINAGRI-INITIAL:
 https://github.com/MLanguage:
   service_of:
     - Institut national de recherche en informatique et en automatique (INRIA)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/MTES-MCT:
   floss_policy:
     - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
   service_of:
-    - Ministère de la Cohésion des territoires et des Relations avec les
-      collectivités territoriales
+    - Ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales
     - Ministère de la Transition écologique
   pso_id:
     - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
@@ -461,10 +344,8 @@ https://github.com/MinistereSupRecherche:
 https://github.com/OPIDoR:
   service_of:
     - Centre national de la recherche scientifique (CNRS)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/OpenEdition:
   service_of:
@@ -472,93 +353,69 @@ https://github.com/OpenEdition:
     - Aix-Marseille université (AMU)
     - École des hautes études en sciences sociales (EHESS)
     - Centre national de la recherche scientifique (CNRS)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - c25e984d-5528-4ad8-a996-a10af5c4f5a1
     - 64160efc-d976-4b76-aee2-0a08d503601a
     - ee6c54a6-acbd-4397-8dae-ae0b9a57ca45
     - 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/OpenFLUID:
   service_of:
     - AgroParisTech - Centre de Montpellier
     - Institut de recherche pour le développement (IRD)
     - Centre de recherche INRAE - Occitanie - Montpellier
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 63c76f67-96f2-4dcb-821f-d485e99b9bfb
     - 6091df85-7eb7-48e6-b88e-f2b51659ffe4
     - b115a85a-5762-4d48-9161-22ba477bfab0
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/PHAREHUB:
   service_of:
     - École polytechnique
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/ProgrammeVitam:
   service_of:
-    - Direction interministérielle du numérique (DINUM)
-    - Ministère des Armées
     - Ministère de la Culture
-    - Ministère de l'Europe et des Affaires étrangères
   pso_id:
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - d24d1af2-c506-4b10-82e8-ab92b8e959d2
     - da1d6275-6710-485d-a249-282cac69dfe7
-    - ac1a7fdb-50f4-4599-b306-ec06b7250965
   floss_policy:
     - https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
 
 https://github.com/ArchivesNationalesFR:
   service_of:
     - Archives nationales
-    - Ministère de la Culture
   pso_id:
     - d60f8d14-d42e-4268-8ed6-ca712f369da6
-    - da1d6275-6710-485d-a249-282cac69dfe7
   floss_policy:
     - https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
 
 https://github.com/SciQLop:
   service_of:
     - Université de Toulouse
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/SimPLU3D:
   service_of:
     - Institut national de l'information géographique et forestière (IGN)
-    - Ministère de la Transition écologique et de la Cohésion des territoires
   pso_id:
     - f610de75-2107-4543-a4e3-fd501a8b611c
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://github.com/SocialGouv:
   floss_policy:
     - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
   service_of:
     - Mission Fabrique numérique (FabNum)
-    - Ministère du Travail, de la Santé et des Solidarités
   pso_id:
     - 361651ec-d4af-4c9f-b76f-e5f9ca19df4b
-    - 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
 https://github.com/Spirals-Team:
   service_of:
     - Université de Lille
-    - Institut national de recherche en informatique et en automatique (INRIA)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 2350726b-1199-48ef-8172-cd85fe151732
-    - 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/StartupsPoleEmploi:
   floss_policy:
@@ -572,77 +429,59 @@ https://github.com/mission-apprentissage:
   floss_policy:
     - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
   service_of:
-    - Pôle animation beta.gouv.fr
     - Ministère du Travail, de l'Emploi et de l'Insertion
   pso_id:
-    - 125cf7e6-8138-4284-b545-fb378f25830b
     - f130ad96-4a81-4eb4-a40c-0539edad5fff
 
 https://github.com/X-DataInitiative:
   service_of:
     - École polytechnique
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/abes-esr:
   floss_policy:
     - https://github.com/abes-esr/abes-politique-developpement
   service_of:
     - Agence bibliographique de l'enseignement supérieur (ABES)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 978ee506-74dd-4634-a69e-ecbd7211d71e
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/ac-nantes-dec:
   service_of:
     - Rectorat - Académie de Nantes
-    - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
   pso_id:
     - a80ce22b-9b00-40b8-bc4e-151bdde9d1c5
-    - 3ed2f725-e077-4973-a531-498e13fc7861
 
 https://github.com/academiePoitiers:
   service_of:
     - Rectorat - Académie de Poitiers
-    - Ministère de l'Éducation Nationale, de la Jeunesse et des Sports
   pso_id:
     - cdc595a1-eb9b-49ef-a689-fceeebfabe0b
-    - 3ed2f725-e077-4973-a531-498e13fc7861
 
 https://github.com/ansforge:
   service_of:
     - Agence du numérique en santé (ANS)
-    - Ministère des Solidarités et de la Santé
   pso_id:
     - a0e44306-21d2-4285-bf0d-75813afaed3e
-    - 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
 https://github.com/aphp:
   service_of:
-    - Centre hospitalier universitaire (CHU) - Assistance publique - Hôpitaux de
-      Paris (AP-HP)
-    - Ministère des Solidarités et de la Santé
+    - Centre hospitalier universitaire (CHU) - Assistance publique - Hôpitaux de Paris (AP-HP)
   pso_id:
     - bec0760f-c0b9-4c72-979f-fecf50de9320
-    - 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
 https://github.com/assurance-maladie-digital:
   service_of:
     - Caisse nationale de l'assurance maladie - CNAM
-    - Ministère des Solidarités et de la Santé
   pso_id:
     - ff0017f1-00fd-4ac6-a423-f3cb0a99836e
-    - 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
 https://github.com/atlanmod:
   service_of:
     - Institut Mines-Télécom - Atlantique (IMT)
     - Nantes Université
-    - Ministère de l'Économie, des Finances et de la Souveraineté industrielle
-      et numérique
+    - Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique
   pso_id:
     - e712b0eb-c2b1-4c41-adf2-e40974d093a3
     - 17411760-a621-451a-98d2-553d72381ad8
@@ -653,60 +492,44 @@ https://github.com/betagouv:
     - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
   service_of:
     - Département Incubateur des services numériques
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - c21fa08e-f09e-4312-a6d8-400e812454c4
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/cea-hpc:
   service_of:
     - Commissariat à l'énergie atomique et aux énergies alternatives (CEA)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - ba5b2f74-2e09-4a35-a6b7-086cd3064cca
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/cea-leti:
   service_of:
     - Commissariat à l'énergie atomique et aux énergies alternatives (CEA)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - ba5b2f74-2e09-4a35-a6b7-086cd3064cca
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/cea-list:
   service_of:
     - Commissariat à l'énergie atomique et aux énergies alternatives (CEA)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - ba5b2f74-2e09-4a35-a6b7-086cd3064cca
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/cea-sec:
   service_of:
     - Commissariat à l'énergie atomique et aux énergies alternatives (CEA)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - ba5b2f74-2e09-4a35-a6b7-086cd3064cca
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/coq:
   service_of:
     - Institut national de recherche en informatique et en automatique (INRIA)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/ctools:
   service_of:
     - Université de Toulouse
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/culturecommunication:
   service_of:
@@ -725,18 +548,14 @@ https://github.com/dataesr:
 https://github.com/dinum-HubEE:
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/disic:
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/diverse-project:
   service_of:
@@ -759,10 +578,8 @@ https://github.com/dsi-ehess:
 https://github.com/ecolabdata:
   service_of:
     - Commissariat général au développement durable
-    - Ministère de la Transition écologique
   pso_id:
     - bfe880bd-eb83-4922-a676-421a2bf01960
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://github.com/elabftw:
   service_of:
@@ -775,12 +592,8 @@ https://github.com/entrepreneur-interet-general:
     - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
   service_of:
     - Département Etalab
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/eole:
   service_of:
@@ -793,74 +606,54 @@ https://github.com/etalab-ia:
     - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
   service_of:
     - Département Etalab
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/datagouv:
   floss_policy:
     - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://gitlab.com/etalab-datalab:
   floss_policy:
     - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
   service_of:
     - Département Etalab
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/codegouvfr:
   floss_policy:
     - https://code.gouv.fr/fr/mission/#politique-logiciels-libres
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/etalab:
   floss_policy:
     - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
   service_of:
     - Département Etalab
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://sr.ht/~codegouvfr:
   floss_policy:
     - https://code.gouv.fr/fr/mission/#politique-logiciels-libres
   service_of:
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
+    - Mission logiciels libres
   pso_id:
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
+    - 6a7cd2a0-af32-4b55-9125-671b16df777b
 
 https://github.com/ezpaarse-project:
   service_of:
     - Centre national de la recherche scientifique (CNRS)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/fabnumdef:
   floss_policy:
@@ -873,28 +666,22 @@ https://github.com/fabnumdef:
 https://github.com/france-connect:
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/gammalib:
   service_of:
     - Université de Toulouse
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/gemoc:
   service_of:
     - Université de Toulouse
     - Université de Rennes
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 95d0cc7d-2ee2-45a1-bdb7-7374a274cb55
     - 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/genotoul-bioinfo:
   service_of:
@@ -904,11 +691,9 @@ https://github.com/genotoul-bioinfo:
 
 https://github.com/gip-recia:
   service_of:
-    - Mission d’intérêt général
-    - Ministère de l'enseignement supérieur et de la recherche
+    - Fonction publique territoriale
   pso_id:
     - 00000000-0000-0000-0000-000000000000
-    - 4ca60afd-3886-434c-80bb-f6bc5558132
 
 https://github.com/histovec:
   service_of:
@@ -919,34 +704,26 @@ https://github.com/histovec:
 https://github.com/ia-flash:
   service_of:
     - Agence nationale de traitement automatisé des infractions (ANTAI)
-    - Ministère de l'Intérieur
   pso_id:
     - 4b5e336d-feca-471b-86bd-8634e79e78b0
-    - fa33b07a-3f71-46d4-b682-569c9faf211e
 
 https://github.com/ifremer-bioinformatics:
   service_of:
     - Institut français de recherche pour l'exploitation de la mer (IFREMER)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 2a7c45c1-a0fb-4130-82dd-9ced0b08424e
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/imagesdesmaths:
   service_of:
     - Centre national de la recherche scientifique (CNRS)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/ina-foss:
   service_of:
     - Institut national de l'audiovisuel (INA)
-    - Ministère de la Culture
   pso_id:
     - 8fa935f8-8a4c-45f6-bbaa-b891895a0ece
-    - da1d6275-6710-485d-a249-282cac69dfe7
   floss_policy:
     - https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
 
@@ -954,36 +731,27 @@ https://gitlab.com/incubateur-territoires:
   floss_policy:
     - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
   service_of:
-    - Mission Incubateur de services numériques
     - Agence nationale de la cohésion des territoires
   pso_id:
-    - 05255578-88b7-47e6-aff3-907d69c1a7a6
     - da837b24-afa7-46ab-b56a-427dd4bcc159
 
 https://github.com/inrae:
   service_of:
-    - Institut national de recherche pour l’agriculture, l’alimentation et
-      l’environnement (INRAE) - Paris
-    - Ministère de l'enseignement supérieur et de la recherche
+    - Institut national de recherche pour l’agriculture, l’alimentation et l’environnement (INRAE) - Paris
   pso_id:
     - 599da94e-8306-4e97-ab75-15d7a59af088
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/inria:
   service_of:
     - Institut national de recherche en informatique et en automatique (INRIA)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/iscpif:
   service_of:
     - Centre national de la recherche scientifique (CNRS)
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/istex:
   service_of:
@@ -1015,17 +783,17 @@ https://github.com/medialab:
   floss_policy:
     - https://medialab.sciencespo.fr/a-propos/#deontology
   service_of:
-    - Ministère de l'enseignement supérieur et de la recherche
+    - Sciences-Po - Institut d'études politiques de Paris (IEP) et Fondation nationale des sciences politiques (FNSP)
   pso_id:
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
+    - 5088d2a9-afa1-4d7b-98c3-d2a25ae99167
 
 https://github.com/AtelierCartographie:
   floss_policy:
     - https://medialab.sciencespo.fr/a-propos/#deontology
   service_of:
-    - Ministère de l'enseignement supérieur et de la recherche
+    - Sciences-Po - Institut d'études politiques de Paris (IEP) et Fondation nationale des sciences politiques (FNSP)
   pso_id:
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
+    - 5088d2a9-afa1-4d7b-98c3-d2a25ae99167
 
 https://github.com/metwork-framework:
   service_of:
@@ -1042,40 +810,28 @@ https://github.com/neuroanatomy:
 https://github.com/numerique-gouv:
   service_of:
     - Département Opérateur des produits interministériels
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - e5299ba4-7aa4-4f95-aa82-7e765d5648fe
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/dinsic-gouv:
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/ocaml:
   service_of:
     - Institut national de recherche en informatique et en automatique
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/opendatateam:
   floss_policy:
     - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
   service_of:
     - Département Etalab
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/openfun:
   service_of:
@@ -1092,10 +848,8 @@ https://github.com/openmole:
 https://github.com/panoramax-project:
   service_of:
     - Institut national de l'information géographique et forestière
-    - Ministère de la Transition écologique et de la Cohésion des territoires
   pso_id:
     - f610de75-2107-4543-a4e3-fd501a8b611c
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://github.com/pass-culture:
   service_of:
@@ -1128,10 +882,8 @@ https://github.com/sgmap-agd:
     - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/sympa-community:
   service_of:
@@ -1142,10 +894,8 @@ https://github.com/sympa-community:
 https://github.com/tchapgouv:
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/unistra:
   service_of:
@@ -1161,9 +911,9 @@ https://github.com/vle-forge:
 
 https://gitlab-research.centralesupelec.fr:
   service_of:
-    - Ministère de l'enseignement supérieur et de la recherche
+    - CentraleSupélec
   pso_id:
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
+    - 304cc601-b932-4239-8256-d0ce5038ddb8
 
 https://gitlab.adullact.net/UPSud:
   service_of:
@@ -1185,35 +935,35 @@ https://gitlab.adullact.net/dgfip:
 
 https://gitlab.adullact.net/marche-sll:
   service_of:
-    - Ministère de l'Économie, des Finances et de la Relance
+    - Direction générale des finances publiques (DGFIP)
   pso_id:
-    - c4195774-f535-4d82-b03f-d5f0c6b08635
+    - 80515340-0ad9-4293-9348-35d7eb005fc7
 
 https://gitlab.com/BDNB:
   service_of:
     - Centre scientifique et technique du bâtiment
-    - Ministère de la Transition écologique
   pso_id:
     - caf96dcf-432b-488b-8b18-7aa0dca9f14e
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://gitlab.ccsd.cnrs.fr:
   service_of:
-    - Ministère de l'enseignement supérieur et de la recherche
+    - Centre national de la recherche scientifique (CNRS)
   pso_id:
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
+    - 35a8a489-89b3-40ea-9838-803dcd5f7d18
 
 https://gitlab.cerema.fr:
   service_of:
-    - Ministère de l'enseignement supérieur et de la recherche
+    - Mission de coordination (CEREMA)
   pso_id:
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
+    - 6c330fd9-0406-4a5f-9e40-c801716a6a24
 
 https://gitlab.com/DREES_code:
   service_of:
-    - Ministère des Solidarités et de la Santé
+    - Direction de la recherche, des études, de l'évaluation et des statistiques (DREES)
   pso_id:
-    - 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+    - 929f8575-51b3-4977-8dcb-147b756de677
+
+# bzg: stopped here
 
 https://gitlab.com/affelnet-lycee-group:
   service_of:
@@ -1552,8 +1302,7 @@ https://github.com/LINCnil:
 
 https://github.com/SocieteNumerique:
   service_of:
-    - Ministère de la Cohésion des territoires et des Relations avec les
-      collectivités territoriales
+    - Ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales
   pso_id:
     - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 

@@ -1413,13 +1413,6 @@ https://github.com/cw-leia:
     - 221319d6-0ceb-4daa-9074-0db98cbdd1b2
     - bce35003-da80-4f7b-abf7-51ed29887969
 
-https://github.com/datagir:
-  service_of:
-    - Agence de l'environnement et de la maîtrise de l'énergie
-    - Ministère de la Transition Écologique et Solidaire
-  pso_id:
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-
 https://github.com/datalab-mi:
   service_of:
     - Ministère de l'Intérieur

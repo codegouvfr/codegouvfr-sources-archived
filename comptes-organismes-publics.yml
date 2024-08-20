@@ -1488,7 +1488,6 @@ https://github.com/gouvernementfr:
   pso_id:
     - 622a21da-ff27-4f5a-ae74-133aa03d905f
 
-# lvgn: stopped here
 https://github.com/leximpact:
   service_of:
     - Assemblée Nationale
@@ -1509,11 +1508,9 @@ https://github.com/meteofrance:
 
 https://github.com/micmacIGN:
   service_of:
-    - Ministère de la Transition écologique
-    - Ministère de l'Agriculture et de l'Alimentation
+    - Institut national de l'information géographique et forestière (IGN)
   pso_id:
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-    - 45e488a2-c977-487f-b62f-19b4d6504d9c
+    - f610de75-2107-4543-a4e3-fd501a8b611c
 
 https://github.com/nanterre:
   service_of:
@@ -1533,11 +1530,8 @@ https://github.com/nantesmetropole:
 https://github.com/observatoire-territoires:
   service_of:
     - Agence nationale de la cohésion des territoires
-    - Ministère de la Cohésion des territoires et des Relations avec les
-      collectivités territoriales
   pso_id:
     - da837b24-afa7-46ab-b56a-427dd4bcc159
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://github.com/orleans-metropole:
   service_of:
@@ -1563,10 +1557,8 @@ https://github.com/region-bretagne:
 https://github.com/signaux-faibles:
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/sigrennesmetropole:
   service_of:
@@ -1585,6 +1577,7 @@ https://github.com/snosan-tools:
     - 2fd089d2-669f-4a91-80b2-b345db391349
     - fa33b07a-3f71-46d4-b682-569c9faf211e
 
+# Not sure
 https://github.com/spyrales:
   service_of:
     - Ministère de l'Économie, des Finances et de la Relance
@@ -1611,7 +1604,7 @@ https://gitlab.adullact.net/departements-notaires:
 
 https://gitlab.adullact.net/gip-recia-snc:
   service_of:
-    - Région Centre
+    - Région Centre Val de Loire
     - Fonction publique territoriale
   pso_id:
     - 00000000-0000-0000-0000-000000000000
@@ -1625,9 +1618,9 @@ https://gitlab.adullact.net/larochelle:
 
 https://gitlab.adullact.net/linc1:
   service_of:
-    - Commission nationale de l'informatique et des libertés
+    - Agence pour l'informatique financière de l'État (AIFE)
   pso_id:
-    - 785c85d5-8400-4545-9a0b-9fa47b23ef6e
+    - 04de2e93-42c9-475b-a284-9322c79591c3
 
 https://gitlab.adullact.net/dge:
   service_of:
@@ -1733,6 +1726,7 @@ https://framagit.org/openfisca:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
     - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
+# Not sure
 https://gitlab.com/e-combox:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
@@ -1777,9 +1771,9 @@ https://src.koda.dsi.cnrs.fr:
 
 https://github.com/AutoriteDeLaConcurrence:
   service_of:
-    - Ministère de l'Économie, des Finances et de la Relance
+    - Autorité de la concurrence
   pso_id:
-    - c4195774-f535-4d82-b03f-d5f0c6b08635
+    - 9c7e6b7c-b793-40b2-a19b-a7dfeaa4792e
 
 https://github.com/e-PSHAD:
   service_of:
@@ -1787,6 +1781,7 @@ https://github.com/e-PSHAD:
   pso_id:
     - 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
 
+# lvgn stopped here
 https://github.com/biblissima:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
